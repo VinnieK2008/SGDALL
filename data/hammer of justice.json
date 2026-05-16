@@ -1,0 +1,35 @@
+{
+    "id": "1239507430/",
+    "name": "hammer of justice",
+    "author": "meow_wet",
+    "creators": ["meow_wet"],
+    "verifier": "cross1508",
+    "verification": "https://www.youtube.com/watch?v=TyJP7rOzLok",
+    "percentToQualify": "67",
+    "demonDifficulty": "Medium Demon",
+    "description": "i've spent the last month or two cooking up the greatest joke level known to man, hopefully this is still ok for the sgd awards, sorry i'm a day late, the ending was taking a while to get working and i had to do some lag fixes!",
+    "engine": "iPhone",
+    "hz": 30,
+    "enj": 95,
+    "records": [
+        {
+            "user": "meow_wet",
+            "link": "https://www.youtube.com/watch?v=UJ1JRibTuMk",
+            "percent": 100,
+            "hz": 30
+        },
+        {
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=1230",
+            "percent": 100,
+            "hz": 30,
+            "enj": 0
+        },
+        {
+            "user": "Nullshift",
+            "link": "https://screenapp.io/app/v/Hd05guJn9m",
+            "percent": 100,
+            "hz": 30
+        }
+    ]
+}

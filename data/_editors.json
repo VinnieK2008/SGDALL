@@ -1,0 +1,61 @@
+[
+    {
+        "role": "owner",
+        "name": "ballgoballing",
+        "discordId": "814537159620165703",
+		"ytHandle": "BallGoBalling"
+    },
+    {
+        "role": "owner",
+        "name": "cross1508",
+		"discordId": "949277687522926643",
+		"ytHandle": "daooooooooooooo"
+    },
+    {
+        "role": "helper",
+        "name": "thomaslyu",
+		"discordId": "916437124323082250",
+        "ytHandle": "tuxat_"
+    },
+    {
+        "role": "helper",
+        "name": "antawng2",
+		"discordId": "1337914217251999905",
+		"ytHandle": "TheGsThatDontUpload"
+    },
+	{
+        "role": "helper",
+        "name": "Wallyboom2010",
+		"discordId": "1454186921386311721",
+		"ytHandle": "Knockoffgdplayer"
+    },
+	{
+        "role": "helper",
+        "name": "unruffled",
+		"discordId": "340652657670881285",
+		"ytHandle": "unruf"
+    },
+	{
+        "role": "helper",
+        "name": "Captinfireball",
+		"discordId": "1337913978461880473",
+		"ytHandle": "CaptainFireBall"
+    },
+	{
+        "role": "helper",
+        "name": "geometrydash-creator",
+		"discordId": "1457421766463852809"
+    },
+	{
+        "role": "dev",
+        "name": "CaptainFlufBall",
+		"discordId": "915441364777443378",
+		"ytHandle": "captainflufball"
+    },
+	{
+        "role": "dev",
+        "name": "VinnieK2008",
+		"discordId": "788121350916014081",
+		"ytHandle": "VinnieK2008"
+    }
+]

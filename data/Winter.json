@@ -1,0 +1,37 @@
+{
+  	"itchLink": "https://compy3.itch.io/winter",
+    "name": "Winter",
+    "author": "sh3lt0n",
+    "creators": ["sh3lt0n"],
+    "verifier": "compsognathus3",
+    "verification": "https://www.youtube.com/watch?v=12VWdiZquPE",
+    "percentToQualify": "67",
+    "demonDifficulty": "Hard Demon",
+    "description": "<img src='https://upload.wikimedia.org/wikipedia/commons/1/12/Twemoji12_1f976.svg' height='60' style='justify-self: center;'>",
+    "engine": "GDR",
+    "enj": "35",
+    "hz": 240,
+    "records": [
+      	{
+            "user": "Kevmaster04",
+            "link": "https://www.youtube.com/watch?v=qzOVavDkLXs",
+            "percent": 100,
+            "hz": 240,
+            "enj": 75
+        },
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=r9zjx8Fotqs",
+            "percent": 100,
+            "hz": 120,
+            "enj": 0
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=l7KKyoNY5-8",
+            "percent": 100,
+            "hz": 120,
+            "enj": 30
+        }
+    ]
+}

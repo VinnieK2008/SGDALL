@@ -1,0 +1,44 @@
+{
+    "id": "1288154269",
+    "name": "Penumbra Phantasm",
+    "author": "meow_wet",
+    "creators": ["meow_wet"],
+    "verifier": "meow_wet",
+    "verification": "https://www.youtube.com/watch?v=PTHijHQue7A",
+    "percentToQualify": "67",
+	  "demonDifficulty": "Medium Demon",
+    "description": "This is the preview level for the GDI Beta, now fully playable!",
+    "engine": "GDI",
+	"enj": 60,
+	"hz": 240,
+    "records": [
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=5vvCuUgFIUI",
+			"percent": 100,
+			"hz": 240,
+			"enj": 80
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=1513",
+			"percent": 100,
+			"hz": 240,
+			"enj": 60
+		},
+		{
+			"user": "Kevmaster04",
+			"link": "https://www.mediafire.com/file/o6iz2awzo2tlu6c/Penumbra_Phantasm_100%2525_by_Kevmaster04.mp4/file",
+			"percent": 100,
+			"hz": 240,
+			"enj": 90
+		},
+		{
+			"user": "cross1508",
+			"link": "https://www.youtube.com/watch?v=Qc87reiCaeo",
+			"percent": 100,
+			"hz": 240,
+			"enj": 97
+		}
+    ]
+}

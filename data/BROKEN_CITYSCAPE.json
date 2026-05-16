@@ -1,0 +1,75 @@
+{
+    "id": "957169102",
+    "name": "BROKEN_CITYSCAPE",
+    "author": "Takayukihiro",
+    "creators": ["Takayukihiro"],
+    "verifier": "thomaslyu",
+    "verification": "https://www.youtube.com/watch?v=WJw3qrNE3AE",
+    "percentToQualify": 67,
+	"demonDifficulty": "Easy Demon",
+    "description": "First level of the Neon_City series",
+    "engine": "GDR",
+	"hz": 60,
+	"enj": 80,
+    "records": [
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=bLSEAmPZ2lw",
+            "percent": 100,
+            "hz": 60,
+			"enj": 87
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=ixvJxHClo3E",
+            "percent": 100,
+            "hz": 120,
+			"enj": 30
+        },
+        {
+            "user": "KING_MAST3R2O1O",
+            "link": "https://www.youtube.com/watch?v=g5PS0JGx948",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=H7dH1dOxAhM",
+            "percent": 100,
+            "hz": 120,
+			"enj": 15
+        },
+        {
+            "user": "OchiAoyos",
+            "link": "https://www.youtube.com/watch?v=TLMLAGl-1Eg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/1XMHfnYtJq4NQU5iOxtEfmKxVOdchvdZW/view",
+            "percent": 100,
+            "hz": 240,
+			"enj": 57.54
+        },
+		{
+			"user": "TheJesterPenguin",
+			"link": "https://youtu.be/hznMKN-hdOY?si=YIqkxLTx1YqdLAlF&t=242",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Nullshift",
+			"link": "https://image2url.com/r2/default/videos/1775063511108-a319ecbe-fb71-4b75-9cec-a97eec0feb93.mp4",
+			"percent": 100,
+			"hz": 30
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/bXxWwvSDGsI",
+			"percent": 100,
+			"hz": 60,
+			"enj": 70
+		}
+    ]
+}

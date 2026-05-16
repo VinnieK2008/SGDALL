@@ -1,0 +1,49 @@
+{
+    "id": "1217668289",
+    "name": "California girls",
+    "author": "thelevelremaker",
+    "creators": ["thelevelremaker"],
+    "verifier": "compsognathus3",
+    "verification": "https://www.youtube.com/watch?v=MEMujS4VlLY",
+    "percentToQualify": "67",
+    "demonDifficulty": "Medium Demon",
+    "description": "verified by compsognathus3",
+    "engine": "GDR",
+    "enj": 96.85,
+    "records": [
+        {
+            "user": "ballgoballing",
+            "link": "https://youtu.be/n4jmaYs4IeU",
+            "percent": 100,
+            "hz": 60,
+            "enj": 100
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=uC0tfv_-UrA",
+            "percent": 100,
+            "hz": 120,
+            "enj": 100
+        },
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.youtube.com/watch?v=c2b5VhXkfjI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=2923",
+            "percent": 100,
+            "hz": 120,
+            "enj": 70
+        },
+        {   
+            "user": "geometrydash-creator",
+            "link": "",
+            "percent": 100,
+            "hz": 60,
+            "enj": 90
+        }
+    ]
+}

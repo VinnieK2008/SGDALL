@@ -1,0 +1,24 @@
+{
+	"id": "1236559654",
+    "name": "Agenda",
+    "author": "coolathagoras",
+    "creators": ["coolathagoras"],
+    "verifier": "Wallyboom2010",
+    "verification": "https://www.youtube.com/watch?v=hOPke1-ECzo",
+    "percentToQualify": "100",
+	"demonDifficulty": "Easy Demon",
+    "engine": "Pig Dash",
+	"description": "This is the tuffest level on the list.",
+    "legacy": false,
+	"hz": 240,
+	"enj": 100,
+    "records": [
+		{
+			"user": "ballgoballing",
+			"link": "https://www.youtube.com/watch?v=pvDdf-klayk",
+			"percent": 100,
+			"hz": 240,
+			"enj": 70
+		}
+    ]
+}

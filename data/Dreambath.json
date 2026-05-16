@@ -1,0 +1,27 @@
+{
+    "id": "1310780742",
+    "name": "Dreambath",
+    "author": "gooomboo",
+    "creators": ["_NewUniverseGD_"],
+    "verifier": "gooomboo",
+    "verification": "https://www.youtube.com/watch?v=QbBYHUIDt_4",
+    "percentToQualify": "67",
+	"demonDifficulty": "Easy Demon",
+    "description": "this version is the og one, not changed at all",
+    "engine": "GDR",
+    "records": [
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=SYXqIwgxIE4",
+			"percent": 100,
+			"hz": 60,
+			"enj": 41.67
+		},
+		{
+			"user": "TheGrassyGuys",
+			"link": "https://www.youtube.com/watch?v=uCJFS4Rv8EY",
+			"percent": 100,
+			"hz": 60
+		}
+    ]
+}

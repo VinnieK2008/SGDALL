@@ -1,0 +1,28 @@
+{
+	"id": "705937985",
+    "name": "NO WAY",
+    "author": "LegoScratchTanksuber",
+    "creators": ["LegoScratchTanksuber"],
+    "verifier": "compsognathus3",
+    "verification": "https://www.youtube.com/watch?v=kasdJ-6Sk5s",
+    "percentToQualify": "67",
+	"demonDifficulty": "Hard Demon",
+    "description": "sequel to WHAT THE H3LL is done :D",
+    "engine": "iPhone",
+	"enj": 43.21,
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=k9v5N8cMLFE",
+            "percent": 100,
+            "hz": 30
+        },
+		{
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=3267",
+            "percent": 100,
+            "hz": 30,
+            "enj": 5
+        }
+    ]
+}

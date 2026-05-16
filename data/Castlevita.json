@@ -1,0 +1,22 @@
+{
+    "id": "892583882/",
+	"itchLink2": "https://scratch.mit.edu/projects/890934515/",
+    "name": "Castlevita",
+    "author": "BLJ_BrokenGD",
+    "creators": ["BLJ_BrokenGD"],
+    "verifier": "BLJ_BrokenGD",
+    "verification": "https://www.youtube.com/watch?v=VfG3qvAgffQ",
+    "percentToQualify": "67",
+	"demonDifficulty": "Playstation Vita Demon",
+    "description": "Welcome to CastleVita! Prepare to die!",
+    "engine": "iPhone",
+	"hz": 30,
+    "records": [
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=1411",
+			"percent": 100,
+			"hz": 30
+		}
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1191190819",
+    "name": "Kibo",
+    "author": "compsognathus3",
+    "creators": ["thelevelremaker"],
+    "verifier": "compsognathus3",
+    "verification": "https://www.youtube.com/watch?v=uHPODNXKlA4",
+    "percentToQualify": "67",
+    "demonDifficulty": "Insane Demon",
+    "description": "<div class='entry-content' style='margin-top: 8px;'>Kibo peak is the highest point of the highest free-standing mountain in the world, Kilimanjaro mountain found in Tanzania. It stands at an elevation of 5,895 meters (19,341 ft) in the Arctic climate zone.</p><br><p>It is one of the <a href='/peaks-volcano-cones/'>3 volcano cones on top of Mt. Kilimanjaro</a>, the highest among the 3 and the only one that is dormant, meaning it could possibly erupt again in the future. The other 2 volcanic cones, Shira and Mawenzi are extinct volcanoes.</p><br><p>Characterized by its prominent crater at its summit (<a href='/uhuru-peak/'>Uhuru Peak</a>) and a special cone shape, Kibo forms the central cone of Kilimanjaro. It is the only one with a snow cap and glaciers among the 3 volcanic cones.</p><br><p>The final ascent to Kibo’s crater rim which starts at midnight is the most challenging and difficult part of the entire Kilimanjaro climb. In the year 1889, the first ascent of the Kibo summit was reached by 2 gentlemen, Hans Meyer and Ludwig Purtscheller. Prior to that, Hans had attempted to summit the mountain twice.</p><br><p>Climbing the Kilimanjaro mountain is rewarding in the form of beautiful scenic views, <a href='/climate-weather/'>different vegetation zones</a> (rain-forests to alpine desert). Some wildlife species that inhabit the mountain like the hyrax, Serval cats, leopards and different birds and the cheery on top, the snow-capped summit at Uhuru peak.</p><br><p>You will have 15-30 minutes at Kibo peak for a much-deserved break. Take pictures to freeze the momentous accomplishment and take in scenic views as far as your eyes can see.</p><br><p>Pack the right clothing, the right gear, go slow and drink enough water while on the climb. This is to increase your chances of making it to Kibo Peak.</p><br><h2 style='border-bottom: 1px solid #808080;margin-bottom: 0.5rem;'></h2> <a href='https://www.goclimbingkilimanjaro.com/book-now/' class='text-uppercase text-white py-3 mb-0'><div class='d-flex align-items-center btn'><span class='fs-4 me-3'>Book Now</span></div></a><h2 style='border-bottom: 1px solid #808080;margin-top: 0.5rem;'></h2> <br> <span class='entry-tags d-flex align-items-center fs-6 mt-5'></div>",
+    "tags": ["Peaks & Volcano Cones", "Wave", "Timings", "Nerve Control", "Short"],
+    "engine": "GDR",
+    "enj": 76.88,
+    "records": [
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=mfEWHn4fp-s",
+            "percent": 100,
+            "hz": 120,
+            "enj": 90
+        },
+        {
+            "user": "Captinfireball",
+            "link": "https://www.youtube.com/watch?v=6XsUQmmll4w&t=4014s",
+            "percent": 100,
+            "hz":  120,
+            "enj": 50
+        }
+    ]
+}

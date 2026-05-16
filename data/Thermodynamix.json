@@ -1,0 +1,22 @@
+{
+    "id": "609559991",
+    "name": "Thermodynamix",
+    "author": "LegoScratchTanksuber",
+    "creators": ["LegoScratchTanksuber"],
+    "verifier": "compsognathus3",
+    "verification": "https://www.youtube.com/watch?v=TjJea5w0Ma8&feature=youtu.be",
+    "percentToQualify": "67",
+    "demonDifficulty": "Insane Demon",
+    "description": "We had Extreme demons that only got up to the Top 20... Time for Top 1 madness, (or legendary demon lol)",
+    "engine": "iPhone",
+    "enj": 29.56,
+    "records": [
+        {
+            "user": "Captinfireball",
+            "link": "https://www.youtube.com/watch?v=6XsUQmmll4w&t=3651s",
+            "percent": 100,
+            "hz": 30,
+            "enj": 10
+        }
+    ]
+}

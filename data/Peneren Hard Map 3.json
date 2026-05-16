@@ -1,0 +1,21 @@
+{
+	"id": "1002205963",
+    "name": "Peneren Hard Map III",
+    "author": "Peneren",
+    "creators": ["TheJesterPenguin"],
+    "verifier": "oopsied",
+    "verification": "https://www.youtube.com/watch?v=hZYxTrYG8II",
+    "percentToQualify": "67",
+    "demonDifficulty": "Hard Demon",
+     "description": "In May of 1998 Joe \"Hard\" Peneren made a map called Peneren Joe Map. Due to people not liking it due to being too complex he made 4 more maps out of spite, which were even more complex, with supposedly Peneren Joe Map IV being lost to time, due to Peneren burying it because it was \"uncanny\" and \"very complicated, I couldn't understanding\" due to this story. The fifth map was never made, because Peneren worried his maps would cause mass hysteria. Due to this story being very well known, his child Hard Peneren made 5 maps in the respect of his father. These maps were called \"Peneren Hard Map\".",
+    "engine": "Spooky Dash",
+    "records": [
+		{
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=3085",
+            "percent": 100,
+            "hz": 30,
+            "enj": 60
+        }
+    ]
+}

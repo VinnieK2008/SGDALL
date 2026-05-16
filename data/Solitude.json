@@ -1,0 +1,44 @@
+{
+    "id": "1317891435",
+    "name": "Solitude",
+    "author": "RicoGMD",
+    "creators": ["RicoGMD"],
+    "verifier": "cross1508",
+    "verification": "https://www.youtube.com/watch?v=AuHdWBCHCXQ",
+    "percentToQualify": "67",
+    "demonDifficulty": "Easy Demon",
+    "description": "Solitude is the positive, voluntary state of being alone, often cherished for reflection, creativity, and inner peace, distinct from the sadness of loneliness. It provides a restorative \"deactivation effect\" that reduces stress, allowing individuals to reconnect with themselves and reset from daily pressures.",
+    "engine": "GDI",
+  	"enj": "100",
+	"hz": 165,
+    "records": [
+        {
+			"user": "compsognathus3",
+			"link": "https://drive.google.com/file/d/17fZyVLJGcMRt2_N4mNuiDWbnKNy_HeyP/view?usp=sharing",
+			"percent": 100,
+			"hz": 240,
+			"enj": 65
+		},
+		{
+			"user": "Kevmaster04",
+			"link": "https://www.youtube.com/watch?v=WhxPqzfhl90",
+			"percent": 100,
+			"hz": 60,
+			"enj": 85
+		},
+		{
+			"user": "antawng2",
+			"link": "https://www.youtube.com/watch?v=JbYe5_4V9oU",
+			"percent": 100,
+			"hz": 120,
+			"enj": 90
+		},
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=7b3FO4-NZOk",
+			"percent": 100,
+			"hz": 60,
+			"enj": 95
+		}
+    ]
+}

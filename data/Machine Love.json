@@ -1,0 +1,57 @@
+{
+    "itchLink": "https://cnfsn.itch.io/teto-i-love-you-teto-is-forever-my-favourite-vocal-synth-i-love-teto-aaaaaaa",
+    "name": "Machine Love",
+    "author": "Takayukihiro",
+    "creators": ["Takayukihiro","LushCavern"],
+    "verifier": "Acc0unt_GD",
+    "verification": "https://www.youtube.com/watch?v=gsUhQH3SylQ",
+    "percentToQualify": "67",
+	"demonDifficulty": "Easy Demon",
+    "description": "\"hey, it's better that i've released it early than to never even release it at all! we've been willing to get this level out, and i think that this is one of the most reasonable and understandable options!\"",
+    "engine": "GDR",
+	"hz": 60,
+    "records": [
+        {
+            "user": "thomaslyu",
+            "link": "https://www.youtube.com/watch?v=pDXJUT81ttk&t=157",
+            "percent": 100,
+            "hz": 60,
+			"enj": 70
+        },
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=sWJaBUYHeOs",
+            "percent": 100,
+            "hz": 60,
+			"enj": 100
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=fcFSZE5Gl_M",
+            "percent": 100,
+            "hz": 60,
+			"enj": 65
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=t7jK865ZJWc",
+            "percent": 100,
+            "hz": 120,
+			"enj": 100
+        },
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/qvk5hrdjt7ikmoz/Machine_Love_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+			"enj": 83.19
+        },
+    	{
+     	    "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=1078",
+            "percent": 100,
+            "hz": 60,
+			"enj": 100
+        }
+    ]
+}

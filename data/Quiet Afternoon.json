@@ -1,0 +1,57 @@
+{
+    "id": "957384446",
+    "name": "Quiet Afternoon",
+    "author": "TheMaceGoat",
+    "creators": ["TheMaceGoat"],
+    "verifier": "TheMaceGoat",
+    "verification": "https://www.youtube.com/watch?v=A1RkHcpk-tU",
+    "percentToQualify": "67",
+	"demonDifficulty": "Easy Demon",
+    "description": "wallyboom super cool what even is a description",
+    "engine": "iPhone",
+	"hz": 30,
+    "records": [
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=CrjnpnU_vXc",
+			"percent": 100,
+			"hz": 30,
+			"enj": 70
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/zJwL2ZFlgIc",
+			"percent": 100,
+			"hz": 30,
+			"enj": 50
+		},
+		{
+			"user": "meow_wet",
+			"link": "https://www.youtube.com/watch?v=Tum2mJxsaWM&t=473",
+			"percent": 100,
+			"hz": 30,
+			"enj": 70
+		},
+		{
+			"user": "Nullshift",
+			"link": "https://www.image2url.com/r2/default/videos/1776948814513-4fef1586-c46c-4f4c-bc7b-65840521b1f5.mov",
+			"percent": 100,
+			"hz": 30,
+			"enj": 80
+		},
+		{
+			"user": "Squeeg",
+			"link": "https://www.youtube.com/shorts/bNYVxGCxlBs",
+			"percent": 100,
+			"hz": 30,
+			"enj": 0
+		},
+		{
+			"user": "Kevmaster04",
+			"link": "https://www.youtube.com/watch?v=RyZ0DlxafWg",
+			"percent": 100,
+			"hz": 30,
+			"enj": 85
+		}
+    ]
+}

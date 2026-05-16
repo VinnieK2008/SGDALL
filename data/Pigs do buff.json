@@ -1,0 +1,31 @@
+{
+    "id": "1236559654",
+    "name": "Pigs do buff",
+    "author": "unruffled",
+    "creators": ["chipm0nk", "wintermelonboss"],
+    "verifier": "ballgoballing",
+    "verification": "https://www.youtube.com/watch?v=R7v46PtELuc",
+    "percentToQualify": "67",
+    "demonDifficulty": "Easy Demon",
+    "description": "Buffed version of Pigs Do Fly",
+    "legacy": true,
+    "engine": "Pig Dash",
+    "hz": 42,
+    "enj": 12,
+    "records": [
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=axjgq6tFMIQ",
+            "percent": 100,
+            "hz": 120,
+            "enj": 35
+        },
+        {
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=855",
+            "percent": 100,
+            "hz": 42,
+            "enj": 25
+        }
+    ]
+}

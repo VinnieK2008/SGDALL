@@ -1,0 +1,37 @@
+{
+    "id": "741025864",
+    "itchLink2": "https://scratch.mit.edu/projects/783340759/",
+    "name": "Arcane Ascension",
+    "author": "Apx-Wildcat",
+    "creators": ["Apx-Wildcat"],
+    "verifier": "BLJ_BrokenGD",
+    "verification": "https://www.youtube.com/watch?v=7LAe-pObB54",
+    "percentToQualify": "67",
+	"demonDifficulty": "Medium Demon",
+    "description": "thanks everyone :)",
+    "engine": "iPhone",
+	"hz": 30,
+    "records": [
+        {
+            "user": "thomaslyu",
+            "link": "https://www.youtube.com/watch?v=Yz_oI8jHqGs",
+            "percent": 100,
+            "hz": 30,
+			"enj": 70
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/1H9H9QpmwhxFb3LyC1Mz0lJDpJ6PUdY7b/view",
+            "percent": 100,
+            "hz": 30,
+			"enj": 34.67
+        },
+			{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=6XsUQmmll4w",
+			"percent": 100,
+			"hz": 30,
+			"enj": 60
+		}
+    ]
+}

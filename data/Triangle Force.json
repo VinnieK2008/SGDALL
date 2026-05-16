@@ -1,0 +1,50 @@
+{
+    "id": "1268252535",
+    "name": "Triangle Force",
+    "author": "xStep13",
+    "creators": ["xStep13"],
+    "verifier": "Wallyboom2010",
+    "verification": "https://www.youtube.com/watch?v=6Yhkblio6yY",
+    "percentToQualify": 72,
+	"demonDifficulty": "Medium Demon",
+    "description": "this level has good deco but its beyond unbalanced",
+    "engine": "GDR",
+	"enj": 60,
+	"hz": 60,
+    "records": [
+		{
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/ja3a5hrryffjsfk/Triangle_Force_100%25_by_Kevmaster04.mp4",
+            "percent": 100,
+            "hz": 60,
+			"enj": 88.79
+        },
+		{
+			"user": "Nullshift",
+			"link": "https://image2url.com/r2/default/videos/1775182227293-8f7c86c7-1ce9-4b88-b178-4e55bb32e043.mp4",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=2097",
+			"percent": 100,
+			"hz": 60,
+			"enj": 30
+		},
+		{
+			"user": "meow_wet",
+			"link": "https://www.youtube.com/watch?v=VRQBQZAqdjg",
+			"percent": 100,
+			"hz": 60,
+			"enj": 99	
+		},
+		{
+			"user": "cross1508",
+			"link": "https://www.youtube.com/watch?v=Kfqpwo2xQPQ",
+			"percent": 100,
+			"hz": 120,
+			"enj": 80
+		}
+    ]
+}

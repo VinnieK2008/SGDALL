@@ -1,0 +1,36 @@
+{
+	"id": "894138145",
+    "name": "Every End",
+    "author": "ryanlwindicharlotte",
+    "creators": ["ryanlwindicharlotte"],
+    "verifier": "compsognathus3",
+    "verification": "https://www.youtube.com/watch?v=Sz5s_i9tDnA",
+    "percentToQualify": "67",
+	"demonDifficulty": "Top 14 Very Hard Timing Map Very Demon",
+    "description": "Top 14 Very Hard Timing Map Very Demon",
+    "engine": "iPhone",
+	"enj": 77,
+    "records": [
+		{
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/ojw2rz7zydca8nd/Every_End_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 30,
+			"enj": 74
+        },
+		{
+			"user": "Nullshift",
+			"link": "https://www.image2url.com/r2/default/videos/1776777261782-8900d546-5a98-47f5-b99d-ca82cb6eccdd.mp4",
+			"percent": 100,
+			"hz": 30,
+			"enj": 80
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=1924",
+			"percent": 100,
+			"hz": 30,
+			"enj": 60
+		}
+    ]
+}

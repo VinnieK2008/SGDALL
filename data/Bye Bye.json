@@ -1,0 +1,23 @@
+{
+    "id": "520789118",
+    "name": "Bye Bye",
+    "author": "LegoScratchTanksuber",
+    "creators": ["LegoScratchTanksuber"],
+    "verifier": "meow_wet",
+    "verification": "https://www.youtube.com/watch?v=FkKjPgf3X6U",
+    "percentToQualify": "67",
+    "demonDifficulty": "Easy Demon",
+    "description": "homer spills his soda (d'oh)",
+    "engine": "iPhone",
+	"enj": "60",
+	"hz": "30",
+    "records": [
+		{
+			"user": "SGDAnshT",
+            "link": "https://streamable.com/4k8a03",
+            "percent": 100,
+            "hz": 30,
+			"enj": 80
+		}
+    ]
+}

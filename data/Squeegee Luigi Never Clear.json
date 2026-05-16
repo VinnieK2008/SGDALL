@@ -1,0 +1,57 @@
+{
+    "id": "1310772485",
+    "name": "Squeegee Luigi Never Clear",
+    "author": "TheFjord",
+    "creators": ["TheFjord"],
+    "verifier": "TheFjord",
+    "verification": "https://www.youtube.com/watch?v=b-TTFqJ5q18",
+    "percentToQualify": "67",
+    "demonDifficulty": "Medium Demon",
+    "description": "cool",
+    "engine": "GDI",
+	"hz": 165,
+    "records": [
+        {
+			"user": "meow_wet",
+			"link": "https://www.youtube.com/watch?v=TnUYQOvxK08&t=648",
+			"percent": 100,
+			"hz": 165,
+			"enj": 70
+		},
+		{
+			"user": "compsognathus3",
+			"link": "https://drive.google.com/file/d/1eiYAvbEB7JFwCikqlDWaNCe6iTL8HrNm",
+			"percent": 100,
+			"hz": 165,
+			"enj": 38
+		},
+		{
+			"user": "Nullshift",
+			"link": "https://www.image2url.com/r2/default/videos/1777553242751-018c628d-0c39-44c0-ae21-604cbf581035.webm",
+			"percent": 100,
+			"hz": 165,
+			"enj": 50
+		},
+		{
+			"user": "cross1508",
+			"link": "https://www.youtube.com/watch?v=5XyaER22OG0",
+			"percent": 100,
+			"hz": 165,
+			"enj": 100
+		},
+		{
+			"user": "antawng2",
+			"link": "https://www.youtube.com/watch?v=JbYe5_4V9oU",
+			"percent": 100,
+			"hz": 120,
+			"enj": 90
+		},
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=nJ9c4CBcUSc",
+			"percent": 100,
+			"hz": 165,
+			"enj": 80
+		}
+    ]
+}

@@ -1,0 +1,32 @@
+{
+	"id": "1246571403",
+    "name": "Phoenix A",
+    "author": "coderbeginner94",
+    "creators": ["coderbeginner94"],
+    "verifier": "ballgoballing",
+    "verification": "https://www.youtube.com/watch?v=Nz-oNHTuNU4",
+    "percentToQualify": "67",
+    "demonDifficulty": "Top 150",
+    "description": "A Level that took more than 6 hrs to make",
+    "legacy": true,
+    "tags": ["Cube", "Ship", "Short", "Timings"],
+    "engine": "Pig Dash",
+	"enj": 100,
+	"hz": 60,
+    "records": [
+		{
+            "user": "unruffled",
+            "link": "https://youtu.be/gOzVnhbpFDA",
+            "percent": 100,
+            "hz": 60,
+			"enj": 0
+        },
+		{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=6XsUQmmll4w&t=3944s",
+			"percent": 100,
+			"hz": 60,
+			"enj": 0
+		}
+    ]
+}

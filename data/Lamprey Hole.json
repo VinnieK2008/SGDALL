@@ -1,0 +1,51 @@
+{
+    "id": "1208824346",
+    "name": "Lamprey Hole",
+    "author": "Takayukihiro",
+    "creators": ["Takayukihiro"],
+    "verifier": "Takayukihiro",
+    "verification": "https://www.youtube.com/watch?v=jV2m_H1Fcz0",
+    "percentToQualify": "67",
+    "demonDifficulty": "Medium Demon",
+    "description": "kinda ironic that this is a memory level, considering that the song's artist *doesn't* want to be remembered",
+    "engine": "GDR",
+    "enj": 80,
+	"hz": 60,
+    "records": [
+    	{
+     	    "user": "Captinfireball",
+            "link": "https://www.youtube.com/watch?v=iSURVZQo_64",
+            "percent": 100,
+            "hz": 60,
+			"enj": 70
+        },
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=2MCnJri8kZU",
+			"percent": 100,
+			"hz": 60,
+			"enj": 25
+		},
+		{
+			"user": "Nullshift",
+			"link": "https://www.image2url.com/r2/default/videos/1777478690314-1746df96-40a5-4021-80f7-f4be9f252c96.mov",
+			"percent": 100,
+			"hz": 60,
+			"enj": 100
+		},
+		{
+			"user": "cross1508",
+			"link": "https://www.youtube.com/watch?v=M2wtQunkbP0",
+			"percent": 100,
+			"hz": 120,
+			"enj": 95
+		},
+		{
+			"user": "Kevmaster04",
+			"link": "https://www.youtube.com/watch?v=konEnQnEq4g",
+			"percent": 100,
+			"hz": 60,
+			"enj": 80
+		}
+    ]
+}

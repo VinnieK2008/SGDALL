@@ -1,0 +1,64 @@
+{
+	"id": "1125346877",
+    "name": "GIVEUP!AKIRAMERU!",
+    "description": "just nerfed the triples and quads because they were way too hard",
+    "author": "compsognathus3",
+    "creators": ["compsognathus3","Takayukihiro"],
+    "verifier": "compsognathus3",
+    "verification": "https://www.youtube.com/watch?v=eKM9PZLcH-o",
+    "percentToQualify": "67",
+	"demonDifficulty": "Hard Demon",
+    "engine": "GDR",
+	"enj": 65.68,
+	"hz": 240,
+    "records": [
+        {
+            "user": "thomaslyu",
+            "link": "https://www.youtube.com/watch?v=q9q3nJgE5Hs",
+            "percent": 100,
+            "hz": 60,
+			"enj": 90
+        },
+        {
+            "user": "DerpIsOk",
+            "link": "https://www.youtube.com/watch?v=fRcgToe-Vw4",
+            "percent": 100,
+            "hz": 60,
+			"mobile": "true"
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=7jlq_2_gUmQ",
+            "percent": 100,
+            "hz": 120,
+			"enj": 85
+        },
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=J-Qt4Cw0Zo4",
+            "percent": 100,
+            "hz": 120,
+			"enj": 60
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=5AUooaBGuDI",
+            "percent": 100,
+            "hz": 60,
+			"enj": 40
+        },
+		{
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/a1uodcmit4xigy4/GIVEUP%21AKIRAMERU%21_%28nerfed%29_100%25_by_Kevmaster04.mp4",
+            "percent": 100,
+            "hz": 60,
+			"enj": 50
+        },
+		{
+            "user": "Captinfireball",
+            "link": "https://www.youtube.com/watch?v=qvUB2Xh5FCY",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

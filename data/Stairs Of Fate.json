@@ -1,0 +1,64 @@
+{
+    "id": "1236559654",
+    "name": "Stairs Of Fate",
+    "author": "unruffled",
+    "creators": ["Affan403", "awu3248"],
+    "verifier": "awu3248",
+    "verification": "https://www.youtube.com/watch?v=P7jMiOJZZqI",
+    "percentToQualify": "67",
+    "demonDifficulty": "Easy Demon",
+    "description": "don't fall idk",
+    "legacy": true,
+    "engine": "Pig Dash",
+    "hz": 60,
+    "records": [
+        {
+            "user": "coolathagoras",
+            "link": "https://www.youtube.com/watch?v=SlIf2Fkr5V8",
+            "percent": 100,
+            "hz": 240,
+            "enj": 50
+        },
+        {
+            "user": "ballgoballing",
+            "link": "https://www.youtube.com/watch?v=T3YZGzzHvH4",
+            "percent": 100,
+            "hz": 60,
+            "enj": 80
+        },
+        {
+            "user": "TheJesterPenguin",
+            "link": "https://youtu.be/p7dP9oFsW6Q?t=56",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://youtu.be/_uyhtzaTXDM?t=71",
+            "percent": 100,
+            "hz": 60,
+            "enj": 45
+        },
+        {
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=98",
+            "percent": 100,
+            "hz": 60,
+            "enj": 50
+        },
+        {
+            "user": "cross1508", 
+            "link": "https://youtube.com/watch?v=j2vhshGUv8Y", 
+            "percent": 100,
+            "hz": 60,
+            "enj": 80
+        },
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=r9zjx8Fotqs",
+            "percent": 100,
+            "hz": 240,
+            "enj": 50
+        }
+    ]
+}

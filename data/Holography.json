@@ -1,0 +1,58 @@
+{
+    "id": "1246571403",
+    "name": "Holography",
+    "author": "ballgoballing",
+    "creators": ["coderbeginner94"],
+    "verifier": "unruffled",
+    "verification": "https://www.youtube.com/watch?v=do2jZj2XrT4",
+    "percentToQualify": "67",
+    "description": "If beaten, give proof.",
+    "demonDifficulty": "Medium Demon",
+    "legacy": true,
+    "engine": "Pig Dash",
+	"hz": 240,
+    "records": [
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=GqBHSH1w1bU",
+            "percent": 100,
+            "hz": 60,
+			"enj": 30
+        },
+        {
+            "user": "coolathagoras",
+            "link": "https://www.youtube.com/watch?v=ooVLHgqn0HE",
+            "percent": 100,
+            "hz": 240,
+			"enj": 30
+        },
+        {
+            "user": "ballgoballing",
+            "link": "https://www.youtube.com/watch?v=pwQkA-hxLxE",
+            "percent": 100,
+            "hz": 60,
+			"enj": 80
+        },
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=wrUNVWwqGTI",
+			"percent": 100,
+			"hz": 60,
+			"enj": 45
+		},
+		{
+			"user": "antawng2",
+			"link": "https://www.youtube.com/watch?v=3FYbm25CXD8&t=1s",
+			"percent": 100,
+			"hz": 60,
+			"enj": 0
+		},
+    	{
+     	    "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=1045",
+            "percent": 100,
+            "hz": 240,
+			"enj": 30
+        }
+    ]
+}

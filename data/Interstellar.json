@@ -1,0 +1,36 @@
+{
+	"id": "1268253853",
+    "name": "Interstellar",
+    "description": "we've done it, we hit 200 followers, so here's a nine circles level for you guys (it's not an aquamarine remake btw)",
+    "author": "xStep13",
+    "creators": ["xStep13"],
+    "verifier": "Kevmaster04",
+    "verification": "https://www.youtube.com/watch?v=I3s0FEHAW2Q",
+    "percentToQualify": "67",
+	"demonDifficulty": "Hard Demon",
+    "engine": "GDR",
+	"enj": 87.62,
+    "records": [
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=gyonh0908kI",
+            "percent": 100,
+            "hz": "60",
+			"enj": 60
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/1DhffOVmRpfcCe1D0u1t7p846Y0q73WQc/view?usp=drive_link",
+            "percent": 100,
+            "hz": "240",
+			"enj": 82.21
+        },
+		{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=0cxTzRTNYtM",
+			"percent": 100,
+			"hz": 60,
+			"enj": 70
+		}
+    ]
+}

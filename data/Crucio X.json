@@ -1,0 +1,87 @@
+{
+	"id": "992301074",
+	"name": "Crucio X",
+	"author": "geometrydash-creator",
+	"creators": ["geometrydash-creator"],
+	"verifier": "geometrydash-creator",
+	"verification": "https://www.youtube.com/watch?v=aS6Cb9pRVWU",
+	"percentToQualify": "67",
+	"demonDifficulty": "Easy Demon",
+	"description": "Dolor but twice!?",
+	"engine": "GDR",
+	"hz": 250,
+	"records": [
+		{
+			"user": "Previous_crop89",
+			"link": "https://streamable.com/21ucyi",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Themasterd2010",
+			"link": "https://youtu.be/ifk1y75zvW0",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Diage_77",
+			"link": "https://www.youtube.com/watch?v=muB9Er2Q0P8",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "CoolohioGD",
+			"link": "https://www.youtube.com/watch?v=-l04P7p6nmA",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Kevmaster04",
+			"link": "https://www.mediafire.com/file/oz3nlztsfi1ggge/Crucio_X_100%2525_by_Kevmaster04.mp4/file",
+			"percent": 100,
+			"hz": 60,
+			"enj": 78.38
+		},
+		{
+			"user": "Nullshift",
+			"link": "https://www.image2url.com/r2/default/videos/1776299343360-25b809cc-b838-49aa-80e4-80635fb05867.mov",
+			"percent": 100,
+			"hz": 30,
+			"enj": 100
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=HGViqfFjadU",
+			"percent": 100,
+			"hz": 60,
+			"enj": 80
+		},
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=-uv3pYn7KCw",
+			"percent": 100,
+			"hz": 60,
+			"enj": 90
+		},
+		{
+			"user": "Semimidgdplayer",
+			"link": "https://www.youtube.com/watch?v=-uv3pYn7KCw",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "cross1508",
+			"link": "https://www.youtube.com/watch?v=C0dquIHsuus",
+			"percent": 100,
+			"hz": 120,
+			"enj": 50
+		},
+		{
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=r9zjx8Fotqs",
+            "percent": 100,
+            "hz": 120,
+            "enj": 80
+        }
+	]
+}

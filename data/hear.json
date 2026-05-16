@@ -1,0 +1,23 @@
+{
+    "scratchLink": "https://youtu.be/dQw4w9WgXcQ",
+	"turbowarpLink": "https://youtu.be/dQw4w9WgXcQ",
+    "itchLink": "https://youtu.be/dQw4w9WgXcQ",
+	"itchLink2": "https://youtu.be/dQw4w9WgXcQ",
+    "name": "Hear Unlaunch",
+    "author": "meow_wet",
+    "creators": ["meow_wet"],
+    "verifier": "meow_wet",
+    "verification": "https://youtu.be/dQw4w9WgXcQ",
+    "percentToQualify": "67",
+    "demonDifficulty": "dsfhkjadsfhkjdsfhdskjf Demon",
+    "description": "<img src='x' onerror='alert(`Blame Vinnie!`)'>",
+    "engine": "iPhone",
+    "records": [
+        {
+            "user": "meow_wet",
+            "link": "https://www.youtube.com/watch?v=UJ1JRibTuMk",
+            "percent": 100,
+            "hz": 30
+        }
+    ]
+}

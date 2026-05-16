@@ -1,0 +1,21 @@
+{
+	"id": "1002205963",
+    "name": "Peneren Hard Map II",
+    "author": "Peneren",
+    "creators": ["TheJesterPenguin"],
+    "verifier": "oopsied",
+    "verification": "https://www.youtube.com/watch?v=qO9QS18nBSo",
+    "percentToQualify": "67",
+    "demonDifficulty": "Medium Demon",
+     "description": "After the release of the Peneren Hard Maps, people raced to be the first one to verify/beat them. It was a very close battle on the second map. The first person to claim verification of the map was Andrey7331, but sadly it wasn't caught on video. Supposedly, GDTidalWave also beat the level, but without proof, other than a discord message, we can not put the record on the list. The first completion of this map caught on video was made by oopsied, which also means he verified the level (according to this list). In his verification video, he gets nervous at 51% and he decides to watch YouTube, and use Discord in the middle of his completion of the level. This completion is currently unlisted on YouTube.",
+    "engine": "Spooky Dash",
+    "records": [
+        {
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=2973",
+            "percent": 100,
+            "hz": 30,
+            "enj": 40
+        }
+    ]
+}

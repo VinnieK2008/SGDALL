@@ -1,0 +1,14 @@
+{
+	"id": "guac",
+    "name": "GIVEUP!AVOCADO!",
+    "author": "goat",
+    "creators": ["goats"],
+    "verifier": "goat",
+    "verification": "https://www.youtube.com/watch?v=QeSqO4YBsOE",
+    "percentToQualify": "67",
+	"demonDifficulty": "Extreme Demon",
+    "description": "my goat work",
+    "engine": "Guac",
+    "records": [
+    ]
+}

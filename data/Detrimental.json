@@ -1,0 +1,14 @@
+{
+    "id": "1213753441",
+    "name": "Detrimental",
+    "author": "Squeeg",
+    "creators": ["Aspect_GD", "Squeeg"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=ribCCJWJNEs",
+    "percentToQualify": "100",
+    "demonDifficulty": "Extreme Demon",
+    "description": "like Delusion, Delirium and more.",
+    "engine": "CFB",
+    "records": [
+    ]
+}

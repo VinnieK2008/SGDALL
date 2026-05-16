@@ -1,0 +1,37 @@
+{
+    "id": "1116979598",
+    "name": "Blue Blizzard",
+    "author": "sandbeard",
+    "creators": ["sandbeard"],
+    "verifier": "thomaslyu",
+    "verification": "https://www.youtube.com/watch?v=pDXJUT81ttk",
+    "percentToQualify": "67",
+    "demonDifficulty": "Medium Demon",
+    "description": "New level! Yay! Not fully decorated, because I got bored. Will probably finish decorating it someday.",
+    "engine": "GDR",
+	"hz": 60,
+	"enj": 90,
+    "records": [
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=_d4ADZcj9X0",
+            "percent": 100,
+            "hz": 60,
+			"enj": 0
+        },
+		{
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/wi0oni9e0cdqkxn/Blue_Blizzard_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+			"enj": 56.18
+        },
+				{
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=2227",
+            "percent": 100,
+            "hz": 60,
+			"enj": 45
+        }
+    ]
+}

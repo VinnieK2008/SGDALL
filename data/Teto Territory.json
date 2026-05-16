@@ -1,0 +1,57 @@
+{
+	"id": "1196700003",
+    "name": "Teto Territory",
+    "author": "coolathagoras",
+    "creators": ["coolathagoras"],
+    "verifier": "compsognathus3",
+    "verification": "https://drive.google.com/file/d/13iFSqeDBGanq_n0Fou5dbOZbMTBKrrku/view",
+    "percentToQualify": "100",
+	"demonDifficulty": "Easy Demon",
+    "engine": "Pig Dash",
+	"description": "If you've played Pig Dash, you'd know the contents of the original description, so we won't be needing that. So, this is essentially just vanilla Pig Dash, but with only my original level: Teto Territory in it.",
+    "legacy": false,
+	"hz": 30,
+    "records": [
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=uPuCQdScni0?start=222",
+            "percent": 100,
+            "hz": 60,
+			"enj": 90
+        },
+        {
+            "user": "coolathagoras",
+            "link": "https://www.youtube.com/watch?v=0PbZ08XLOro",
+            "percent": 100,
+            "hz": 30,
+			"enj": 90
+        },
+		{
+            "user": "ballgoballing",
+            "link": "https://www.youtube.com/watch?v=j1zPxuuOYME",
+            "percent": 100,
+            "hz": 60,
+			"enj": 70
+        },
+		{
+			"user": "TheJesterPenguin",
+			"link": "https://youtu.be/hznMKN-hdOY?si=oiOkWBoB1nMFm3wX&t=301",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Wallyboom2010",
+			"link": "https://youtu.be/_uyhtzaTXDM?t=110",
+			"percent": 100,
+			"hz": 60,
+			"enj": 30
+		},
+    	{
+     	    "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=581",
+            "percent": 100,
+            "hz": 60,
+			"enj": 50
+        }
+    ]
+}

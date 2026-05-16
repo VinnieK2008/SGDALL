@@ -1,0 +1,67 @@
+{
+    "id": "974507325",
+    "name": "I.N.S.A. Rebirth",
+    "author": "wesnothplayer",
+    "creators": ["wesnothplayer"],
+    "verifier": "PlayerEpic86",
+    "verification": "https://www.youtube.com/watch?v=Nflel3hB9OA",
+    "percentToQualify": "67",
+    "demonDifficulty": "Medium Demon",
+    "description": "YOOO A COMPLETED LEVEL!!!<br>remake of ill never smile again by takahiro<br>extreme demon",
+    "engine": "GDR",
+	"hz": 60,
+    "records": [
+        {
+            "user": "Acc0unt_GD",
+            "link": "https://www.youtube.com/watch?v=hJE9Gr6gyro",
+            "percent": 100,
+            "hz": 60
+        },
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=eB8zbeJ_Wmo&list=PLm_q-XLT5dowLKI0wmAK7F8Zqou0-nc-t&index=20",
+			"percent": 100,
+			"hz": 60,
+			"enj": 75
+		},
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/pib00pn6uf1ps5x/I.N.S.A._REBIRTH_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+			"enj": 44.92
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/1h84YX_RwHEpIyhNkYVShxlPFoU57X76a/view",
+            "percent": 100,
+            "hz": 240,
+			"enj": 58.68
+        },
+		{
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=i9t1lsjMMis",
+            "percent": 100,
+            "hz": 120,
+			"enj": 80
+        },
+		{
+			"user": "TheJesterPenguin",
+			"link": "https://youtu.be/hznMKN-hdOY?si=NlWivGxrx0DjvW-v&t=179",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "TheMaceGoat",
+			"link": "https://www.youtube.com/watch?v=NVPq-BxUs6s&feature=youtu.be",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=479",
+			"percent": 100,
+			"hz": 60
+		}
+    ]
+}

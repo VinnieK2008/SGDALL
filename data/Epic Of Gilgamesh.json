@@ -1,0 +1,55 @@
+{
+    "id": "1308976258",
+    "name": "Epic Of Gilgamesh",
+    "author": "meow_wet",
+    "creators": ["meow_wet"],
+    "verifier": "meow_wet",
+    "verification": "https://youtu.be/N0MIh7LMZt0",
+    "percentToQualify": "67",
+	"demonDifficulty": "Easy Demon",
+    "description": "idk if it has a description someone else can add it not my problem also wallyboom is the best list mod (meow wet said this btw)",
+    "engine": "iPhone",
+    "records": [
+		{
+			"user": "TheMaceGoat",
+            "link": "https://youtu.be/ndd1mePLPwU",
+            "percent": 100,
+            "hz": 30
+		},
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=lJfbBb-2IE8",
+			"percent": 100,
+			"hz": 30,
+			"enj": 50
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/zJwL2ZFlgIc",
+			"percent": 100,
+			"hz": 30,
+			"enj": 50
+		},
+		{
+			"user": "Nullshift",
+			"link": "https://www.image2url.com/r2/default/videos/1776688127819-cdc6416c-75d6-44d3-a3df-ac8a8725a1df.mp4",
+			"percent": 100,
+			"hz": 30,
+			"enj": 70
+		},
+		{
+			"user": "KarJ5",
+			"link": "https://discord.com/channels/1441949351470567487/1441949848294260837/1499698491339964447",
+			"percent": 100,
+			"hz": 30,
+			"enj": 75
+		},
+		{
+			"user": "Previous_crop89",
+			"link": "https://streamable.com/2gfosb",
+			"percent": 100,
+			"hz": 30,
+			"enj": 98
+		}
+    ]
+}

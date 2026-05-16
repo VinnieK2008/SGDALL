@@ -1,0 +1,42 @@
+{
+    "id": "957121214",
+    "name": "Amidst The Misery",
+    "author": "Takayukihiro",
+    "creators": ["Takayukihiro"],
+    "verifier": "Captinfireball",
+    "verification": "https://www.youtube.com/watch?v=pszSZpmnhpQ",
+    "percentToQualify": "67",
+	"demonDifficulty": "Medium Demon",
+    "description": "You know what? I think I made this too easy... Despite the troubles, will you find light? Or will you lose in despair amidst this misery?",
+    "engine": "GDR",
+    "records": [
+        {
+            "user": "thomaslyu",
+            "link": "https://www.youtube.com/watch?v=BWnnDv69qiw",
+            "percent": 100,
+            "hz": 60,
+			"enj": 70
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/1VGKQbFlPwkyXFRJ7n9HwIBXByaefnjNY/view",
+            "percent": 100,
+            "hz": 240,
+			"enj": 70
+        },
+		{
+			"user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=_f_z6OZ3oKw",
+            "percent": 100,
+            "hz": 120,
+			"enj": 1.49999999
+		},
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=Miy5zIgTtKY",
+			"percent": 100,
+			"hz": 60,
+			"enj": 67
+		}
+	]
+}

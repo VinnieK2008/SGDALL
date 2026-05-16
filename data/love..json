@@ -1,0 +1,44 @@
+{
+    "id": "1227956464",
+    "name": "love.",
+    "author": "ruasogetSevitaerC",
+    "creators": ["ruasogetSevitaerC"],
+    "verifier": "thomaslyu",
+    "verification": "https://www.youtube.com/watch?v=a54fPLsz5Ag",
+    "percentToQualify": "100",
+    "demonDifficulty": "love Demon",
+    "description": "love.",
+    "engine": "Spooky Dash",
+    "enj": 70,
+    "hz": 30,
+    "records": [
+        {
+            "user": "ballgoballing",
+            "link": "https://www.youtube.com/watch?v=-lTyJFe5M40",
+            "percent": 100,
+            "hz": 30,
+            "enj": 80
+        },
+        {
+            "user": "Nullshift",
+            "link": "https://www.image2url.com/r2/default/videos/1776269033496-38fccdbb-d63e-4e19-bac8-1e2cf510b7ee.mp4",
+            "percent": 100,
+            "hz": 30,
+            "enj": 30
+        },
+        {
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=2740",
+            "percent": 100,
+            "hz": 30,
+            "enj": 50
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=6011Y78QoJA",
+            "percent": 100,
+            "hz": 30,
+            "enj": 60
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "codetorchLink": "https://codetorch.net/en/projects/74821",
+    "name": "Temperate Cycles",
+    "author": "GenericcubeFC",
+    "creators": ["GenericcubeFC"],
+    "verifier": "meow_wet",
+    "verification": "https://www.youtube.com/watch?v=ebvFA0phwbg",
+    "percentToQualify": "67",
+    "demonDifficulty": "Easy Demon",
+    "description": "I hope you enjoy my temperate map!!!<br>1.6 styled level",
+    "engine": "GDH",
+	"enj": "80",
+	"hz": "240",
+    "records": [
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=w9-H7ZkqAz0",
+			"percent": 100,
+			"hz": 240,
+			"enj": 75
+		},
+		{
+			"user": "cross1508",
+			"link": "https://www.youtube.com/watch?v=t21WCKqUfGI",
+			"percent": 100,
+			"hz": 240,
+			"enj": 90
+		}
+    ]
+}

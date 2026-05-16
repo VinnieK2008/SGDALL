@@ -1,0 +1,23 @@
+{
+	"itchLink": "https://wallyboom2010.itch.io/high-noon",
+    "name": "high noon",
+    "author": "Wallyboom2010",
+    "creators": ["Wallyboom2010", "PlayerEpic86"],
+    "verifier": "Wallyboom2010",
+    "description": "this took longer than i wanted it to",
+    "verification": "https://www.youtube.com/watch?v=EeXttSvzvzU",
+    "percentToQualify": "67",
+	"demonDifficulty": "Hard Demon",
+    "engine": "GDR",
+	"hz": 60,
+	"enj": 50,
+    "records": [
+		{
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=3034",
+            "percent": 100,
+            "hz": 120,
+            "enj": 50
+        }
+    ]
+}

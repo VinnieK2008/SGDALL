@@ -1,0 +1,32 @@
+{
+    "id": "1179880324",
+    "name": "Operation: Evolution",
+    "author": "xStep13",
+    "creators": ["xStep13"],
+    "verifier": "thomaslyu",
+    "verification": "https://www.youtube.com/watch?v=KNuVGEevup0",
+    "percentToQualify": "67",
+	"demonDifficulty": "Medium Demon",
+    "description": "camera triggers are awesome :D",
+    "engine": "GDR",
+    "records": [
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=kKORhzdhgSQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=N8vt2918Ijk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/yawzopjsplwc2a8/Operation_Evolution_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "1268251697",
+    "name": "Sweet Escape",
+    "author": "xStep13",
+    "creators": ["xStep13"],
+    "verifier": "Wallyboom2010",
+    "verification": "https://www.youtube.com/watch?v=gXF26_RFD8A",
+    "percentToQualify": 67,
+    "demonDifficulty": "Medium Demon",
+    "description": "ts level so cool ong fr fr",
+    "engine": "GDR",  
+    "enj": 80,
+    "hz": 60,
+    "records": [
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/2wigaedizjofhee/Sweet_Escape_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+            "enj": 94.82
+        },
+        {
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=1999",
+            "percent": 100,
+            "hz": 60,
+            "enj": 70
+        }
+    ]
+}

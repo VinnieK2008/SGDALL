@@ -1,0 +1,23 @@
+{
+    "id": "654440561",
+	"itchLink2": "https://scratch.mit.edu/projects/892582652/",
+    "name": "Buffed Apex",
+    "author": "Apx-Wildcat",
+    "creators": ["Apx-Wildcat", "BLJ_BrokenGD"],
+    "verifier": "BLJ_BrokenGD",
+    "verification": "https://www.youtube.com/watch?v=NXNUOePR8nI",
+    "percentToQualify": "67",
+    "demonDifficulty": "Medium Demon",
+    "description": "Buffed Apex made by Apx...",
+    "engine": "iPhone",
+	"hz": 30,
+    "records": [
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=1732",
+			"percent": 100,
+			"hz": 30,
+			"enj": 60
+		}
+    ]
+}

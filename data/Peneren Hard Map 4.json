@@ -1,0 +1,44 @@
+{
+	"id": "1246571403",
+    "name": "Peneren Hard Map IV",
+    "author": "ballgoballing",
+    "creators": ["TheJesterPenguin"],
+    "verifier": "unruffled",
+    "verification": "https://www.youtube.com/embed/8yGx6r7dUps?start=402",
+    "percentToQualify": "67",
+    "demonDifficulty": "Poopy Demon",
+    "description": "Due to his map \"Peneren Hard Map III\" being brutally beaten by oopsied, Peneren decided to make a new map in the series. He decided to write a mod for a game called \"Pig Dash\", where pigs dash (move) automatically along a level where they can jump, which you control with your keyboard/mouse. This game is one of the most brutal games ever, due to your mistakes killing pigs. Due to this <a style='text-decoration: underline;' href='https://www.peta.org'>PETA©</a> has filed a lawsuit against the maker of \"Pig Dash\". After finshing the mod, Peneren used his modded version of \"Pig Dash\" to make one of the hardest maps in the series. This map, was called \"Peneren Hard Map IV\" out of the respect for his father's map series.",
+    "engine": "Pig Dash",
+    "legacy": true,
+	"enj": "",
+    "records": [
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=3lzyiokSXoY",
+            "percent": 100,
+            "hz": 60,
+			"enj": 65
+        },
+        {
+            "user": "coolathagoras",
+            "link": "https://www.youtube.com/watch?v=NUq0Bqya3l0",
+            "percent": 100,
+            "hz": 240,
+			"enj": 30
+        },
+		{
+            "user": "ballgoballing",
+            "link": "https://www.youtube.com/watch?v=zds5fh0O0Vw",
+            "percent": 100,
+            "hz": 60,
+			"enj": 87
+        },
+		{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=6XsUQmmll4w&t=3352s",
+			"percent": 100,
+			"hz": 240,
+			"enj": 60
+		}
+    ]
+}

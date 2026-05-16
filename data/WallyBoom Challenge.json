@@ -1,0 +1,28 @@
+{
+	"itchLink": "https://compy3.itch.io/wallyboom-challenge",
+    "name": "WallyBoom Challenge",
+    "author": "compsognathus3",
+    "creators": ["compsognathus3"],
+    "verifier": "compsognathus3",
+    "verification": "https://www.youtube.com/watch?v=9bhhgMvVcI8",
+    "percentToQualify": "67",
+    "demonDifficulty": "Hard Demon",
+    "description": "a challenge for the best GDR player",
+    "engine": "GDR",
+	"enj": 51.12,
+    "records": [
+		{
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=wd6ZrSi3vE4",
+            "percent": 74,
+            "hz": 120
+        },
+		{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=6XsUQmmll4w&t=3497s",
+			"percent": 100,
+			"hz": 120,
+			"enj": 60
+		}
+    ]
+}

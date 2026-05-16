@@ -1,0 +1,28 @@
+{
+	"id": "1105132154",
+    "name": "Silent Dropstep",
+    "author": "Squeeg",
+    "creators": ["LegoScratchTanksuber","Squeeg"],
+    "verifier": "BLJ_BrokenGD",
+    "verification": "https://www.youtube.com/watch?v=-yGQwXYXug4",
+    "percentToQualify": "100",
+	"demonDifficulty": "Medium Demon",
+    "description": "time to spice things up >:D",
+    "engine": "iPhone",
+	"hz": 30,
+    "records": [
+        {
+            "user": "TheJesterPenguin",
+            "link": "https://youtu.be/82zaHGCUhTQ?si=S9y3E1_0t7-pLg6N",
+            "percent": 100,
+            "hz": 30
+        },
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=1852",
+			"percent": 100,
+			"hz": 30,
+			"enj": 30
+		}
+    ]
+}

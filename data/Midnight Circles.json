@@ -1,0 +1,70 @@
+{
+    "id": "1089920588",
+    "name": "Midnight Circles",
+    "author": "GD_Noob",
+    "creators": ["wesnothplayer", "GD_Noob"],
+    "verifier": "GD_Noob",
+    "verification": "https://www.youtube.com/watch?v=NVkKJ92S5b0",
+    "percentToQualify": "67",
+    "demonDifficulty": "Easy Demon",
+    "description": "By Wesnothplayer, Changed by me<br>Verified by Me also New Hardest",
+    "engine": "CFB",
+	"hz": 30,
+    "records": [
+	    {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/xxiggmi7vg9pwup/Midnight_Circles_100%25_by_Kevmaster04.mov/file",
+            "percent": 100,
+            "hz": 30,
+			"enj": 71.84
+        },
+		{
+            "user": "cross1508",
+            "link": "https://youtu.be/a2EcAi-r77A?t=45",
+            "percent": 100,
+            "hz": 30,
+			"enj": 60
+        },
+		{
+			"user": "antawng2",
+            "link": "https://youtu.be/PaHPb97mITU",
+            "percent": 100,
+            "hz": 30,
+			"enj": 25
+		},
+		{
+            "user": "TheJesterPenguin",
+            "link": "https://youtu.be/p7dP9oFsW6Q?t=98",
+            "percent": 100,
+            "hz": 30
+        },
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=_uyhtzaTXDM",
+			"percent": 100,
+			"hz": 30,
+			"enj": 0
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=144",
+			"percent": 100,
+			"hz": 30,
+			"enj": 40
+		},
+		{
+			"user": "Nullshift",
+			"link": "https://www.image2url.com/r2/default/videos/1777513126128-317af787-d3dd-4bdd-83ea-783fe8eb5728.mov",
+			"percent": 100,
+			"hz": 30,
+			"enj": 50
+		},
+		{
+			"user": "TheGrassyGuys",
+			"link": "https://www.youtube.com/watch?v=-tFHGuAS5tg",
+			"percent": 100,
+			"hz": 30,
+			"enj": 25
+		}
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "itchLink": "https://tuxat.itch.io/styx-nerfed",
+    "name": "Styx",
+    "author": "MichaelKArchives",
+    "creators": ["MichaelKArchives"],
+    "verifier": "thomaslyu",
+    "verification": "https://www.youtube.com/watch?v=6VAfj8g-cGE",
+    "percentToQualify": "67",
+    "demonDifficulty": "Insane Demon",
+    "description": "Acheron but, yea",
+    "engine": "GDR",
+	"enj": 80,
+    "records": [
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=YZNUBS98wU0",
+            "percent": 100,
+            "hz": 60,
+			"enj": 80
+        },
+		{
+			"user": "Kevmaster04",
+			"link": "https://www.mediafire.com/file/6wcu9alytvdi8fh/Styx_Nerfed_100%25_by_Kevmaster04.mp4/file",
+			"percent": 100,
+			"hz": 60,
+			"enj": 68.3
+		},
+      	{
+			"user": "antawng2",
+			"link": "https://www.youtube.com/watch?v=3FYbm25CXD8&t=1s",
+			"percent": 79,
+			"hz": 120
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=6XsUQmmll4w&t=3727s",
+			"percent": 100,
+			"hz": 120,
+			"enj": 70
+		},
+		{
+			"user": "cross1508",
+			"link": "https://www.youtube.com/watch?v=Clsjdoz50eQ",
+			"percent": 86,
+			"hz": 120
+		}
+    ]
+}

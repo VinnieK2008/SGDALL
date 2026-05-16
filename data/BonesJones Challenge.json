@@ -1,0 +1,29 @@
+{
+	"itchLink": "https://daooooo.itch.io/bonesjones",
+    "name": "BonesJones Challenge",
+    "author": "cross1508",
+    "creators": ["compsognathus3"],
+    "verifier": "compsognathus3",
+    "verification": "https://www.youtube.com/watch?v=afa8ag0fkZY",
+    "percentToQualify": "67",
+    "demonDifficulty": "Hard Demon",
+    "description": "I originally hacked this level.<br>The entire level was one giant attempt to expose BonesJones23 for being a Squeeg alt",
+    "engine": "GDR",
+	"enj": "16.03",
+    "records": [
+		{
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=H_rTKYeuvDI",
+            "percent": 100,
+            "hz": 120,
+			"enj": "80"
+        },
+		{
+            "user": "Captinfireball",
+            "link": "https://www.youtube.com/watch?v=H_rTKYeuvDI",
+            "percent": 100,
+            "hz": 120,
+			"enj": 25
+        }
+    ]
+}

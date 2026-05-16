@@ -1,0 +1,37 @@
+{
+	"id": "1246571403",
+    "name": "Peneren Hard Map V",
+    "author": "ballgoballing",
+    "creators": ["TheJesterPenguin"],
+    "verifier": "ballgoballing",
+    "verification": "https://www.youtube.com/watch?v=JkzUcv3YHDQ",
+    "percentToQualify": "67",
+    "demonDifficulty": "PETA Demon",
+    "description": "After gettings his already brutal map even more brutally beaten and bullied by unruffled, Peneren had enough, he decided to make a new map in his series. To make matters even worse, the creator of \"Pig Dash\" despite the lawsuit from <a style='text-decoration: underline;' href='https://www.peta.org'>PETA©</a>, updated his game, to introduce more unforgiving hitboxes to make <a style='text-decoration: underline;' href='https://www.peta.org'>PETA©</a> and animal abuse activites suffer even more, after the request from prominent community members. Also due to this update, Peneren had to rewrite his mod to work on the new version. After a bunch of debugging and new found hatred towards this simple, yet brutal pig platforming game, he decided to fuel it to his new map. After some drama with the Scratch Geometry Dash community, he TRULY had enough. This would be his final map made for Scratch Geometry Dash. This map would have very tight ship gaps, absurd memory, off-screen gameplay, even worse balancing and to top it all off, a 60fps frame perfect at the end, just for good measure. Peneren wouldn't call his map something to match the absurd difficulty of the map. He would name it \"Peneren Hard Map V\", out of the respect for his father seperate map series. This map was very hated, for similar reasons as \"Peneren Joe Map 4\", but this time, it didn't become lost media.",
+    "legacy": false,
+    "tags": ["Cube", "Ship", "Nerve Control", "Timings"],
+    "engine": "Pig Dash",
+	"enj": 70,
+    "records": [
+        {
+            "user": "unruffled",
+            "link": "https://youtu.be/_--Jv3xZkaI",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=kXcFO60UAUE",
+            "percent": 100,
+            "hz": 60,
+			"enj": 85
+        },
+		{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=6XsUQmmll4w&t=3828s",
+			"percent": 100,
+			"hz": 60,
+			"enj": 80
+		}
+    ]
+}

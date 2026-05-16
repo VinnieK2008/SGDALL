@@ -1,0 +1,97 @@
+{
+    "id": "1069159528",
+    "name": "Dolor",
+    "author": "geometrydash-creator",
+    "creators": ["geometrydash-creator"],
+    "verifier": "geometrydash-creator",
+    "verification": "https://www.youtube.com/watch?v=aBimX0S2rIk",
+    "percentToQualify": "100",
+    "demonDifficulty": "Medium Demon",
+    "description": "Scratcherhouse femboy edition",
+    "engine": "GDR",
+	"hz": 60,
+    "records": [
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=RnP-7Kd7NZQ",
+            "percent": 100,
+            "hz": 60,
+			"enj": 93
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/1KAGQqtHDxyLuHIFUNA15gElL2JHPHJjd/view",
+            "percent": 100,
+            "hz": 240,
+			"enj": 78.23
+        },
+		{
+	        "user": "sh3lt0n",
+	        "link": "https://www.youtube.com/watch?v=8I_n7Nojyys",
+	        "percent": 100,
+            "hz": 120
+	    },
+		{
+	        "user": "Kevmaster04",
+	        "link": "https://www.mediafire.com/file/zmxddoomh8bjspl/Dolor_GDR_completion_100%25_mobile_by_Kevmaster04.mov/file",
+	        "percent": 100,
+            "hz": 60,
+			"mobile": true,
+			"enj": 100
+	    },
+		{
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=jQpbUFLN--w",
+            "percent": 100,
+            "hz": 120,
+			"mobile": true,
+			"enj": 70
+        },
+	    {
+            "user": "gooomboo",
+            "link": "https://youtu.be/r2gpVhloFW8?t=151",
+            "percent": 100,
+            "hz": 60
+        },
+		{
+            "user": "ballgoballing",
+            "link": "https://www.youtube.com/watch?v=4FjA99TOf_o",
+            "percent": 100,
+            "hz": 60,
+			"enj": 80
+        },
+		{
+			"user": "Previous_crop89",
+			"link": "https://streamable.com/21ucyi",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Nullshift",
+			"link": "https://image2url.com/r2/default/videos/1775136037310-26e3d13b-064d-42d6-bdfe-ec91de024a38.mov",
+			"percent": 100,
+			"hz": 60
+		},
+    	{
+     	    "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=1375",
+            "percent": 100,
+            "hz": 60,
+			"enj": 70
+        },
+		{
+     	    "user": "co28u",
+            "link": "https://www.youtube.com/watch?v=sVA0Gnlgu1c",
+            "percent": 100,
+            "hz": 60,
+			"enj": 80
+        },
+			{
+     	    "user": "Semimidgdplayer",
+            "link": "https://drive.google.com/file/d/1GcX9qT8OF20grEGZWTRx_64ohAloXwcw/view?t=0.05",
+            "percent": 100,
+            "hz": 60,
+			"enj": 70
+        }
+    ]
+}

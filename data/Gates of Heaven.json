@@ -1,0 +1,36 @@
+{
+    "id": "1276885895",
+    "name": "Gates of Heaven",
+    "author": "Previous_crop89",
+    "creators": ["Previous_crop89"],
+    "verifier": "Previous_crop89",
+    "verification": "https://streamable.com/bzhfr8",
+    "percentToQualify": "70",
+    "demonDifficulty": "Easy Demon",
+    "description": "A challenge made for a contest",
+    "engine": "GDR",
+	"hz": "60",
+    "records": [
+		{   
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/455wkhkrvbgz6l8/Gates_of_Heaven_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+            "enj": 65
+		},
+		{   
+            "user": "geometrydash-creator",
+            "link": "https://www.mediafire.com/file/zum2scuc1s6nsqz/golden+Gate+Compelion+!!+map+Susi!.mov/file",
+            "percent": 100,
+            "hz": 60,
+            "enj": 70
+		},
+		{
+            "user": "SGDAnshT",
+            "link": "https://streamable.com/86vvu8",
+            "percent": 100,
+            "hz": 60,
+            "enj": 60
+		}
+    ]
+}

@@ -1,0 +1,35 @@
+{
+	"id": "671831755",
+    "name": "WHAT THE H3LL",
+    "author": "LegoScratchTanksuber",
+    "creators": ["LegoScratchTanksuber"],
+    "verifier": "LegoScratchTanksuber",
+    "verification": "https://www.youtube.com/watch?v=GkvnFGIxI3I",
+    "percentToQualify": "100",
+	"demonDifficulty": "Medium Demon",
+    "description": "Remake of WHTAPP remix",
+    "engine": "iPhone",
+	"hz": 30,
+    "records": [        
+        {
+            "user": "BLJ_BrokenGD",
+            "link": "https://www.youtube.com/watch?v=tsguolpwgXg",
+            "percent": 100,
+            "hz": 30
+        },
+		{
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/180GqYuoxVOfzqoonstLFuSZOJCxY-8AQ/view",
+            "percent": 100,
+            "hz": 30,
+			"enj": 51.18
+        },
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=1895",
+			"percent": 100,
+			"hz": 30,
+			"enj": 20
+		}
+    ]
+}

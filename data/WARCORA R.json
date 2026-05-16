@@ -1,0 +1,96 @@
+{
+	"id": "1033647579",
+    "name": "WARCORA R",
+    "author": "Zuhair12345",
+    "creators": ["Zuhair12345"],
+    "verifier": "PlayerEpic86",
+    "description": "Og level by Wargack",
+    "verification": "https://www.youtube.com/watch?v=nyQrD-LEyO8",
+    "percentToQualify": "100",
+	"demonDifficulty": "Medium Demon",
+    "engine": "GDR",
+	"hz": 60,
+    "records": [
+        {
+            "user": "thomaslyu",
+            "link": "https://www.youtube.com/watch?v=DwY90RqP8Xw",
+            "percent": 100,
+            "hz": 60,
+			"enj": 70
+        },
+        {
+            "user": "DerpIsOk",
+            "link": "https://www.youtube.com/watch?v=jjBeEu0p5iI",
+            "percent": 100,
+			"mobile": "true",
+            "hz": 60
+        },
+		{
+            "user": "GD_Noob",
+            "link": "https://www.youtube.com/watch?v=6GFUL_pR2Bw",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "BLJ_BrokenGD",
+            "link": "https://www.youtube.com/watch?v=MOnxr7bMpTM",
+            "percent": 100,
+            "hz": 30
+        },
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=-_z-q8PrxlA",
+            "percent": 100,
+            "hz": 120,
+			"enj": 67.41
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=2EeF4gkvs2s",
+            "percent": 100,
+            "hz": 120,
+			"enj": 65
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=coz3KuCB650",
+            "percent": 100,
+            "hz": 120,
+			"enj": 0
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/1egXOmgSYDjt5U5RAkPaKIfQx7Deo3-Oh/view",
+            "percent": 100,
+            "hz": 240,
+			"enj": 65.57
+        },
+		{
+			"user": "detroitsigma",
+			"link": "https://www.youtube.com/watch?v=DTNrzC_Un6g",
+			"percent": 100,
+			"hz": 60,
+			"enj": 70
+		},
+		{
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/046pj4nmo0e8hfp/WARCORA_R_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+			"enj": 67.92
+        },
+		{
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=2OcsU7cB5fU",
+            "percent": 100,
+            "hz": 30
+        },
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=2286",
+			"percent": 100,
+			"hz": 120,
+			"enj": 40
+		}
+    ]
+}

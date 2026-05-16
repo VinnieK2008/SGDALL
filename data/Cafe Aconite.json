@@ -1,0 +1,68 @@
+{
+	"itchLink": "https://cnfsn.itch.io/mebirthday",
+    "name": "Cafe Aconite",
+    "author": "Takayukihiro",
+    "creators": ["Takayukihiro"],
+    "verifier": "thomaslyu",
+    "verification": "https://www.youtube.com/watch?v=HAsoPh1rp8I",
+    "percentToQualify": "67",
+	"demonDifficulty": "Easy Demon",
+    "description": "I am pressured by two idiots right now",
+    "engine": "GDR",
+	"hz": 60,
+	"enj": 80,
+    "records": [
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=6PSgdzZ7NZU",
+            "percent": 100,
+            "hz": 60,
+			"enj": 85
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=nLIwOXfkRZw",
+            "percent": 100,
+            "hz": 60,
+			"enj": 80
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=ZdrHq6xYFNY",
+            "percent": 100,
+            "hz": 130,
+			"enj": 90
+        },
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/7lg68a3fb4kjnag/Caf%C3%A9_Aconite_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+			"enj": 77.29
+        },
+		{
+			"user": "TheJesterPenguin",
+			"link": "https://youtu.be/hznMKN-hdOY?si=RnJ2XkvuAAtP-hAL&t=38",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "gooomboo",
+			"link": "https://youtu.be/nJbDEZdfmDY?si=WSWOSMmr-djmscM2",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=386",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "vernalstick",
+			"link": "https://www.youtube.com/watch?v=NZROglzAd0E",
+			"percent": 100,
+			"hz": 60
+		}
+	]
+}

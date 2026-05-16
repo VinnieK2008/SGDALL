@@ -1,0 +1,51 @@
+{
+	"itchLink": "https://wallyboom2010.itch.io/cobwebss",
+	"itchLink2": "https://wallyboom2010.itch.io/uldm",
+    "name": "Cobwebs",
+    "author": "Wallyboom2010",
+    "creators": ["Wallyboom2010"],
+    "verifier": "thomaslyu",
+    "description": "<img src='../assets/levels/web demon.png'>",
+    "verification": "https://www.youtube.com/watch?v=7j_AEqG3rlk",
+    "percentToQualify": "67",
+	"demonDifficulty": "Insane Demon",
+    "tags": ["Wave", "Chokepoints", "Timings", "Nerve Control", "Short"],
+    "engine": "GDR",
+	"enj": 100,
+	"hz": 120,
+    "records": [
+		{
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=pM0mgXSF73I",
+            "percent": 100,
+            "hz": 120,
+			"enj": 70
+        },
+	    {
+            "user": "unruffled",
+            "link": "https://www.youtube.com/watch?v=7rSs33B-HGE",
+            "percent": 100,
+            "hz": 120
+        },
+		{
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=tzITuHFCdas",
+            "percent": 100,
+            "hz": 120,
+			"enj": 90
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=FAMC5pzcCq4",
+            "percent": 92,
+            "hz": 120
+        },
+		{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=6XsUQmmll4w&t=4147s",
+			"percent": 100,
+			"hz": 120,
+			"enj": 70
+		}
+    ]
+}

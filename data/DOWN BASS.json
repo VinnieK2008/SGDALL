@@ -1,0 +1,102 @@
+{
+	"id": "1136423030",
+    "name": "DOWN BASS",
+    "author": "gooomboo",
+    "creators": ["gooomboo"],
+    "verifier": "Acc0unt_GD",
+    "verification": "https://www.youtube.com/watch?v=enMDrfm2Pqk",
+    "percentToQualify": "67",
+	"demonDifficulty": "Easy Demon",
+    "description": "toxic level theme",
+    "engine": "GDR",
+	"hz": 60,
+    "records": [
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=c-YpAWMmQic",
+            "percent": 100,
+            "hz": 120,
+			"enj": 60
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=3XXaf5Vq6vM",
+            "percent": 100,
+            "hz": 120,
+			"enj": 65
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=ZmaIrnGgTbA",
+            "percent": 100,
+            "hz": 240,
+			"enj": 30
+        },
+        {
+            "user": "thomaslyu",
+            "link": "https://www.youtube.com/watch?v=ADxX509sm4Y",
+            "percent": 100,
+            "hz": 60,
+			"enj": 70
+        },
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/kv7bhk4rd3l1hyd/DOWN_BASS_100%25_by_Kevmaster04_.mp4/file",
+            "percent": 100,
+            "hz": 60,
+			"enj": 58.83
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/1AuGHm6pXZwJ0hsJDGQfGDXob1bpw2IUF/view",
+            "percent": 100,
+            "hz": 240,
+			"enj": 34.78
+        },
+        {
+            "user": "geometrydash-creator",
+            "link": "https://youtu.be/QW87yp1e38M?t=47",
+            "percent": 100,
+            "hz": 60
+        },
+		{
+			"user": "gooomboo",
+			"link": "https://www.youtube.com/watch?v=CaEuJPnKfNs",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+            "user": "TheJesterPenguin",
+            "link": "https://youtu.be/p7dP9oFsW6Q?t=171",
+            "percent": 100,
+            "hz": 60
+        },
+		{
+			"user": "Previous_crop89",
+			"link": "https://streamable.com/l3xiue",
+			"percent": 100,
+			"hz": 120
+		},
+		{
+			"user": "Nullshift",
+			"link": "https://www.image2url.com/r2/default/videos/1776304917294-b4e9958a-d690-4882-b5cf-6ea67fc3c965.mov",
+			"percent": 100,
+			"hz": 60,
+			"enj": 70
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=212",
+			"percent": 100,
+			"hz": 60,
+			"enj": 70
+		},
+		{
+			"user": "TheGrassyGuys",
+			"link": "https://www.youtube.com/watch?v=TRlDc-aZrlM",
+			"percent": 100,
+			"hz": 60,
+			"enj": 30
+		}
+    ]
+}

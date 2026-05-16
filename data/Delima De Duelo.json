@@ -1,0 +1,45 @@
+{
+	"id": "980848576",
+    "name": "Delima De Duelo",
+    "author": "Takayukihiro",
+    "creators": ["Takayukihiro"],
+    "verifier": "thomaslyu",
+    "verification": "https://www.youtube.com/watch?v=Dy3safgtiiY",
+    "percentToQualify": 67,
+	"demonDifficulty": "Medium Demon",
+    "engine": "GDR",
+    "description": "Two Player Demon",
+    "twoplayer": true,
+	"hz": 60,
+	"enj": 80,
+    "records": [
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=RZuVMucdKLI",
+            "percent": 100,
+            "hz": 120,
+			"enj": 60
+        },
+		{
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/r3bpmuweq40lzf1/Delima_De_Duelo_%282_player_demon%29_100%25_Solo_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+			"enj": 76.29
+        },
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=2187",
+			"percent": 100,
+			"hz": 60,
+			"enj": 80
+		},
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=LioFbl8JXcg",
+			"percent": 100,
+			"hz": 60,
+			"enj": 67.41
+		}
+    ]
+}

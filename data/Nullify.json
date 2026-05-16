@@ -1,0 +1,70 @@
+{
+    "id": "1058592268",
+    "name": "Nullify",
+    "author": "LushCavern",
+    "creators": ["LushCavern"],
+    "verifier": "Takayukihiro",
+    "verification": "https://www.youtube.com/watch?v=JeFuda-5j2U",
+    "percentToQualify": "67",
+    "demonDifficulty": "Easy Demon",
+    "description": "idk what the description is but it uses the andromeda song and its cool af tbh",
+    "engine": "GDR",
+    "hz": 60,
+    "records": [
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/wkdm0xe217wcjtg/nullify_100%2525_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+            "enj": 68.19
+        },
+        {
+            "user": "TheJesterPenguin",
+            "link": "https://youtu.be/hznMKN-hdOY?si=sH3Lz38DcTke2tB1&t=139",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=7keNviJvlIk",
+            "percent": 100,
+            "hz": 120,
+            "enj": 90
+        },
+        {
+            "user": "TheMaceGoat",
+            "link": "https://www.youtube.com/watch?v=z0raR9JJe8M&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://youtu.be/_uyhtzaTXDM?t=196",
+            "percent": 100,
+            "hz": 60,
+            "enj": 85
+        },
+        {
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=314",
+            "percent": 100,
+            "hz": 60,
+            "enj": 85
+        },
+        {
+            "user": "ManlyASMR",
+            "link": "https://jumpshare.com/s/HHAbZg8RTNaMX17bqjMP",
+            "percent": 100,
+            "hz": 60,
+            "enj": 87
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=mvVvxYwGRfg",
+            "percent": 100,
+            "hz": 120,
+            "enj": 80
+        }
+    ]   
+    
+}

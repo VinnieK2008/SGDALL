@@ -1,0 +1,30 @@
+{
+    "id": "1247650452",
+    "name": "Era of Disasters",
+    "author": "phananh280615",
+    "creators": ["_NewUniverseGD_"],
+    "verifier": "Kevmaster04",
+    "verification": "https://www.youtube.com/watch?v=pJv4j_tEBJ0&feature=youtu.be",
+    "percentToQualify": "64",
+    "demonDifficulty": "Hard Demon",
+    "description": "long level like 3:28 min with many weird chokepoints",
+    "engine": "GDR",
+	"hz": 60,
+	"enj": "0",
+    "records": [
+		{
+			"user": "cross1508",
+			"link": "https://www.youtube.com/watch?v=UaxipOMNH6o",
+			"percent": 100,
+			"hz": 60,
+			"enj": 10
+		},
+		{
+			"user": "Wallyboom2010",
+			"link": "youtube.com",
+			"percent": 100,
+			"hz": 60,
+			"enj": 67
+		}
+	]
+}

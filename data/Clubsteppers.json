@@ -1,0 +1,28 @@
+{
+  "id": "1022704612",
+  "name": "Clubsteppers",
+  "author": "TimothyTheSnake",
+  "creators": ["TimothyTheSnake"],
+  "verifier": "klh_aidenHo",
+  "verification": "https://www.youtube.com/watch?v=z5yPFX7AWoo",
+  "percentToQualify": "67",
+  "demonDifficulty": "Easy Demon",
+  "description": "CLUBSTEP!",
+  "engine": "GDR",
+  "records": [
+    {
+      "user": "Previouscrop_89",
+      "link": "https://streamable.com/lwnw1u",
+      "percent": 100,
+      "hz": 60
+    },
+    {
+      "user": "Themasterd2010",
+      "link": "https://youtu.be/ecCw3cBDVTY",
+      "percent": 100,
+      "hz": 60
+    }
+    
+  ]
+}
+  

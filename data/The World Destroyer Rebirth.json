@@ -1,0 +1,35 @@
+{
+    "id": "965110567",
+    "name": "The World Destroyer Rebirth",
+    "author": "DJ_RD",
+    "creators": ["DJ_RD", "__Supernova__"],
+    "verifier": "Keelhal",
+    "verification": "https://www.youtube.com/watch?v=uP0rhI9JKIA",
+    "percentToQualify": "67",
+	"demonDifficulty": "Easy Demon",
+    "description": "My Hardest Level Ever<br>Currently Trying To Be Verified By @Keelhal<br>Harder Than Theory Of Continuity?",
+    "engine": "iPhone",
+	"hz": 30,
+    "records": [
+        {
+            "user": "TheJesterPenguin",
+            "link": "https://www.youtube.com/watch?v=WCHFGpd4q8s",
+            "percent": 100,
+            "hz": 30
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/1kWe2MQiAPCcNx3vDmYMbGZpg_mhAL_6g/view",
+            "percent": 100,
+            "hz": 30,
+			"enj": 75.69
+        },
+		{
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=540",
+            "percent": 100,
+            "hz": 30,
+			"enj": 30
+        }
+    ]
+}

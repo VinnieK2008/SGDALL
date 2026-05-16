@@ -1,0 +1,85 @@
+Greyhound
+Firework
+LEGACY
+Theory Of Final Infinity
+Ultimate Kill Stream
+KOCMOC
+After Depression
+Christmas Biden Astronda
+Loveless Eternally
+Kibo
+Cobwebs
+Snatching White
+Ultra Kill Stream 1
+Theory Of Pickle
+H3LLS GATE
+Tidal Square
+Silent Sonic Wave Rebirth
+Nether Fortress
+GIVEUP!AKITANERU!
+CRYING NIGHTMARE
+Ultra Kill Stream 3
+Peneren Hard Map 3
+GIVEUP!AKIRAMERU!
+Demonic Nightmares 2
+Arcane Extension
+The Bronx
+Operation Evolution
+Scratch Tidal Wave
+NO WAY
+Thermodynamix
+Ultimate Destruction
+Auditory Breaker
+Flesh and Bones
+Amidst the Misery
+SUPERMONKEKWORLD
+CORRUPT3D_N3BULA
+California Girls
+Teto Territory
+Sakupen Circles Redux
+Scratcherhouse
+Warcora R
+DOWN BASS
+
+
+    "Firework",
+    "LEGACY",
+    "Theory Of Final Infinity",
+    "Ultimate Kill Stream",
+    "KOCMOC",
+    "After Depression",
+    "Christmas Biden Astronda",
+    "Loveless Eternally",
+    "Kibo",
+    "Cobwebs",
+    "Snatching White",
+    "Ultra Kill Stream 1",
+    "Theory Of Pickle",
+    "H3LLS GATE",
+    "Tidal Square",
+    "Silent Sonic Wave Rebirth",
+    "Nether Fortress",
+    "GIVEUP!AKITANERU!",
+    "CRYING NIGHTMARE",
+    "Ultra Kill Stream 3",
+    "Peneren Hard Map 3",
+    "GIVEUP!AKIRAMERU!",
+    "Demonic Nightmares 2",
+    "Arcane Extension",
+    "The Bronx",
+    "Operation Evolution",
+    "Scratch Tidal Wave",
+    "NO WAY",
+    "Thermodynamix",
+    "Ultimate Destruction",
+    "Auditory Breaker",
+    "Flesh and Bones",
+    "Amidst the Misery",
+    "SUPERMONKEKWORLD",
+    "CORRUPT3D_N3BULA",
+    "California Girls",
+    "Teto Territory",
+    "Sakupen Circles Redux",
+    "Scratcherhouse",
+    "Warcora R",
+    "DOWN BASS"

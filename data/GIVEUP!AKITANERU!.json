@@ -1,0 +1,43 @@
+{
+	"id": "1186792605",
+    "name": "GIVEUP!AKITANERU!",
+    "author": "compsognathus3",
+    "creators": ["compsognathus3"],
+    "verifier": "compsognathus3",
+    "verification": "https://www.youtube.com/watch?v=ryF4ggvLnBM",
+    "percentToQualify": "67",
+	"demonDifficulty": "Insane Demon",
+    "description": "my best work",
+    "engine": "GDR",
+	"enj": 80.25,
+    "records": [
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=ImhPAo25kIA",
+            "percent": 100,
+            "hz": 120,
+			"enj": 90
+        },
+        {
+            "user": "thomaslyu",
+            "link": "https://www.youtube.com/watch?v=ezgYQaPp1yU",
+            "percent": 100,
+            "hz": 120,
+			"enj": 70
+        },
+		{
+			"user": "Kevmaster04",
+			"link": "https://www.mediafire.com/file/gk0mxkx15i7htv5/GIVEUP%2521AKITANERU%2521_100_by_Kevmaster04.mp4/file",
+			"percent": 100,
+			"hz": 60,
+			"enj": 72.30
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=6XsUQmmll4w&t=3608s",
+			"percent": 100,
+			"hz": 120,
+			"enj": 30
+		}
+    ]
+}

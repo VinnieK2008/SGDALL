@@ -1,0 +1,24 @@
+{
+    
+    "id": "952309641",
+    "name": "Arcane Extension",
+    "author": "GWATeam",
+    "creators": ["Apx-Wildcat", "Squeeg"],
+    "verifier": "BLJ_BrokenGD",
+    "verification": "https://www.youtube.com/watch?v=j20C7_jni5w",
+    "percentToQualify": "67",
+	"demonDifficulty": "Hard Demon",
+    "description": "p a i n",
+    "engine": "iPhone",
+	"enj": 33,
+	"hz": 30,
+    "records": [
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=3430",
+			"percent": 100,
+			"hz": 30,
+			"enj": 50
+		}
+    ]
+}

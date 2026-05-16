@@ -1,0 +1,44 @@
+{
+	"itchLink": "https://therealfloridaman.itch.io/theworstsgdleveloat",
+    "name": "Silent 12",
+    "author": "meow_wet",
+    "creators": ["meow_wet","antawng2"],
+    "verifier": "meow_wet",
+    "verification": "https://www.youtube.com/watch?v=NMPQheZFZUs",
+    "percentToQualify": "67.416169",
+	"demonDifficulty": "Easy Demon",
+    "engine": "GDI",
+	"description": "so buns bro",
+	"hz": 240,
+	"enj": 70,
+    "records": [
+		{
+			"user": "Captinfireball",
+			"link": "https://youtu.be/6XsUQmmll4w?t=2343",
+			"percent": 100,
+			"hz": 240,
+			"enj": 0
+		},
+		{
+			"user": "Wallyboom2010",
+			"link": "https://youtu.be/mJz8RujWJhk",
+			"percent": 100,
+			"hz": 240,
+			"enj": 68
+		},
+		{
+			"user": "TheFjord",
+			"link": "https://youtu.be/eAntDTWwKWs",
+			"percent": 100,
+			"hz": 240,
+			"enj": 92
+		},
+		{
+			"user": "VinnieK2008",
+			"link": "https://www.youtube.com/watch?v=rFlPJs6G1w4",
+			"percent": 100,
+			"hz": 240,
+			"enj": 68
+		}
+	]
+}

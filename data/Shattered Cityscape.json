@@ -1,0 +1,145 @@
+{
+    "id": "1018703222",
+    "name": "Shattered Cityscape",
+    "author": "Takayukihiro",
+    "creators": ["Takayukihiro"],
+    "verifier": "thomaslyu",
+    "verification": "https://www.youtube.com/watch?v=5xWwQ4jOiZQ",
+    "percentToQualify": "67",
+    "demonDifficulty": "Easy Demon",
+    "description": "A remastered version of BROKEN_CITYSCAPE, now that I know how to use the editor to its fullest.",
+    "engine": "GDR",
+	"enj": 90,
+	"hz": 60,
+    "records": [
+        {
+            "user": "realtoreeeeee",
+            "link": "https://www.youtube.com/watch?v=wG2nBopZBDM",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=dCpRvlrU_s0",
+            "percent": 100,
+            "hz": 60,
+			"enj": 70
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=b76OxvkMQyw",
+            "percent": 100,
+            "hz": 120,
+			"enj": 90
+        },
+        {
+            "user": "ballgoballing",
+            "link": "https://youtu.be/MkmIDZcScQg",
+            "percent": 100,
+            "hz": 250,
+            "controller": true,
+			"enj": 80
+        },
+		{
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/18JnQLAO21fWocKXpAtO-JXAv3paj0ndR/view",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/nuaelqs9on1amt9/Shattered_Cityscape_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+			"enj": 93.73
+        },
+        {
+            "user": "meow_wet",
+            "link": "https://youtu.be/bXK3RSVtHtc?t=99",
+            "percent": 100,
+            "hz": 69
+        },
+        {
+            "user": "geometrydash-creator",
+            "link": "https://youtu.be/QW87yp1e38M",
+            "percent": 100,
+            "hz": 60
+        },
+		{
+            "user": "GD_Noob",
+            "link": "https://www.youtube.com/watch?v=xXxmqzlU5lE",
+            "percent": 100,
+            "hz": 120
+        },
+		{
+            "user": "antawng2",
+            "link": "https://youtu.be/PaHPb97mITU",
+            "percent": 100,
+            "hz": 120,
+			"enj": 85
+        },
+		{
+            "user": "TheJesterPenguin",
+            "link": "https://www.youtube.com/watch?v=p7dP9oFsW6Q",
+            "percent": 100,
+            "hz": 67.41
+        },
+		{
+			"user": "gooomboo",
+			"link": "https://youtu.be/WJd0j3zwtUw",
+			"percent": 100,
+			"hz": 30
+		},
+		{
+			"user": "Nullshift",
+			"link": "https://image2url.com/r2/default/videos/1774921338488-3e2a5442-3a76-4310-baba-108f944fa089.mov",
+			"percent": 100,
+			"hz": 30
+		},
+		{
+			"user": "Techphaetus173",
+			"link": "https://www.mediafire.com/file/7h1d7ilprsm3dsf/Completion.mp4",
+			"percent": 100,
+			"hz": 30
+		},
+		{
+			"user": "TheMaceGoat",
+			"link": "https://youtu.be/6Ecaga5Mn5I",
+			"percent": 100,
+			"hz": 240
+		},
+		{
+			"user": "Captinfireball",
+			"link": "https://www.youtube.com/watch?v=6XsUQmmll4w",
+			"percent": 100,
+			"hz": 120,
+			"enj": 80
+		},
+		{
+			"user": "KarJ5",
+			"link": "https://discordapp.com/channels/1441949351470567487/1441949848294260837/1499111623162335314",
+			"percent": 100,
+			"hz": 30,
+			"enj": 75
+		},
+		{
+			"user": "Previous_crop89",
+			"link": "https://streamable.com/96e0yb",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "Semimidgdplayer",
+			"link": "https://drive.google.com/file/d/1_NKgxvpZfJ8djac7WlRJZ5bFpvwmx16_/view?usp=sharing",
+			"percent": 100,
+			"hz": 60
+		},
+		{
+			"user": "TheGrassyGuys",
+			"link": "https://www.youtube.com/watch?v=1ngqaAJgnA0",
+			"percent": 100,
+			"hz": 30,
+			"enj": 80
+		}
+    ]
+}

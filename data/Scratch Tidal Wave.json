@@ -1,0 +1,89 @@
+{
+    "itchLink": "https://tuxat.itch.io/scratch-tidal-wave",
+    "itchLink2": "https://tuxat.itch.io/scratch-tidal-wave-ldm",
+    "name": "Scratch Tidal Wave",
+    "author": "thomaslyu",
+    "description": "After half a year of work... My 3rd scratch geometry dash level!",
+    "creators": ["thomaslyu"],
+    "verifier": "thomaslyu",
+    "verification": "https://www.youtube.com/watch?v=ihPDCXM68K8",
+    "percentToQualify": "67",
+	"demonDifficulty": "Hard Demon",
+    "engine": "GDR",
+	"enj": 100,
+	"hz": 60,
+    "records": [
+        {
+            "user": "RubenChuGD",
+            "link": "https://www.youtube.com/watch?v=gle2mtVTKTg",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "zes2384",
+            "link": "https://www.youtube.com/watch?v=ivyLyZWxOWk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DerpIsOk",
+            "link": "https://www.youtube.com/watch?v=fANNiWw8yaI",
+            "percent": 100,
+            "mobile": "true",
+            "hz": 60
+        },
+        {
+            "user": "Captinfireball",
+            "link": "https://www.youtube.com/watch?v=VtoRbOkUiXw",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=Sw5NxsMg6XY",
+            "percent": 100,
+            "hz": 60,
+			"enj": 85
+        },
+        {
+            "user": "TempestWinds",
+            "link": "https://www.youtube.com/watch?v=ivyLyZWxOWk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/fw1lw9erh4xxo5v/Scratch_Tidal_Wave_100%2525_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60,
+			"enj": 56.01
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=yB_DQxxzYkE",
+            "percent": 100,
+            "hz": 60,
+			"enj": 90
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=a9tdXeBuOwE",
+            "percent": 100,
+            "hz": 120,
+			"enj": 95
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/14OvYOodSmiOk6wXEImaSpsGGKgd9OuCQ/view",
+            "percent": 100,
+            "hz": 240,
+			"enj": 86.70
+        },
+		{
+            "user": "gooomboo",
+            "link": "https://www.youtube.com/watch?v=8X0z4CrgbiA",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

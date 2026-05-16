@@ -1,0 +1,76 @@
+{
+    "itchLink": "https://tuxat.itch.io/sctrhs",
+    "name": "Scratcherhouse",
+    "author": "thomaslyu",
+    "creators": ["thomaslyu"],
+    "verifier": "thomaslyu",
+    "verification": "https://www.youtube.com/watch?v=Sc6dBxsO-MU",
+    "percentToQualify": "100",
+	"demonDifficulty": "Easy Demon",
+    "description": "This level is for showcasing the new startposition update as well as the other quality of life changes.",
+    "engine": "GDR",
+    "records": [
+        {
+            "user": "DerpIsOk",
+            "link": "https://www.youtube.com/watch?v=38EFooAbBGE",
+            "percent": 100,
+            "mobile": "true",
+            "hz": 60
+        },
+        {
+            "user": "gooomboo",
+            "link": "https://youtu.be/OpZJnCb6yAo?t=27",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Acc0unt_GD",
+            "link": "https://www.youtube.com/watch?v=pvgz90YF2RQ",
+            "percent": 100,
+            "mobile": "true",
+            "hz": 60
+        },
+        {
+            "user": "Electrizer09",
+            "link": "https://www.youtube.com/watch?v=wAlfcJAkBSQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "hibachidefect",
+            "link": "https://x.com/hibachidefect/status/1980442981737148872",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=xk_Frhr4woQ",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "antawng2",
+            "link": "https://www.youtube.com/watch?v=Ol1il82jgtk",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Wallyboom2010",
+            "link": "https://www.youtube.com/watch?v=gV13jIi865w",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Kevmaster04",
+            "link": "https://www.mediafire.com/file/4g3yp89xy5hr6bx/Scratcherhouse_100%25_by_Kevmaster04.mp4/file",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "compsognathus3",
+            "link": "https://drive.google.com/file/d/1ERzcd1Sf8R1Ct7Of5aOmQO2tudCxjuEH/view",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

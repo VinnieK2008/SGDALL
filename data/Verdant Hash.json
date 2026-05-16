@@ -1,0 +1,30 @@
+{
+	"codetorchLink": "https://codetorch.net/en/projects/74821",
+    "name": "Verdant Hash",
+    "author": "meow_wet",
+    "creators": ["meow_wet"],
+    "verifier": "meow_wet",
+    "verification": "https://youtu.be/SiNaKDXbWyM",
+    "percentToQualify": "67",
+	"demonDifficulty": "Easy Demon",
+    "engine": "GDH",
+	"description": "newest map idea :)",
+	"hz": 240,
+	"enj": 80,
+    "records": [
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=Oa74nJiPA0M",
+			"percent": 100,
+			"hz": 240,
+			"enj": 80
+		},
+		{
+			"user": "Kevmaster04",
+			"link": "https://www.youtube.com/watch?v=4AkBYmUuaJw",
+			"percent": 100,
+			"hz": 240,
+			"enj": 95
+		}
+	]
+}

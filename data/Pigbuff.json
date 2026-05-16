@@ -1,0 +1,50 @@
+{
+    "id": "1246571403",
+    "name": "Pigbuff",
+    "author": "ballgoballing",
+    "creators": ["chipm0nk", "wintermelonboss"],
+    "verifier": "coolathagoras",
+    "verification": "https://www.youtube.com/watch?v=6X6XNR3YtxQ",
+    "percentToQualify": "67",
+    "demonDifficulty": "Medium Demon",
+    "description": "Buffed version of Pigstep",
+    "legacy": true,
+    "engine": "Pig Dash",
+	"hz": 30,
+    "records": [
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=IxsHl0CGbkY",
+            "percent": 100,
+            "hz": 60,
+			"enj": 80
+        },
+        {
+            "user": "ballgoballing",
+            "link": "https://www.youtube.com/watch?v=yBQ1CzaVSRs",
+            "percent": 100,
+            "hz": 60,
+			"enj": 12
+        },
+		{
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/live/9ZTZUVh2KCc?t=16593",
+            "percent": 100,
+            "hz": 60
+        },
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=iQzoqdkUj2Q",
+			"percent": 100,
+			"hz": 67,
+			"enj": 80
+		},
+        {
+            "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=2454",
+            "percent": 100,
+            "hz": 240,
+            "enj": 40
+        }
+    ]
+}

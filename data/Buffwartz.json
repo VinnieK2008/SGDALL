@@ -1,0 +1,50 @@
+{
+    "id": "1236559654",
+    "name": "Buffwartz",
+    "author": "unruffled",
+    "creators": ["chipm0nk", "wintermelonboss"],
+    "verifier": "oopsied",
+    "verification": "https://www.youtube.com/watch?v=nW-j_-8rHog",
+    "percentToQualify": "67",
+    "demonDifficulty": "Easy Demon",
+    "description": "Buffed version of Hogwartz",
+    "legacy": true,
+    "engine": "Pig Dash",
+	"hz": 30,
+    "records": [
+        {
+            "user": "coolathagoras",
+            "link": "https://www.youtube.com/watch?v=JX9s9S_a5cE",
+            "percent": 100,
+            "hz": 30,
+			"enj": 40
+        },
+        {
+            "user": "ballgoballing",
+            "link": "https://www.youtube.com/watch?v=I1gcuJbcSqQ",
+            "percent": 100,
+            "hz": 250
+        },
+        {
+            "user": "cross1508",
+            "link": "https://www.youtube.com/watch?v=Zpt_CcjdJ_E",
+            "percent": 100,
+            "hz": 60,
+			"enj": 80
+        },
+		{
+			"user": "Wallyboom2010",
+			"link": "https://www.youtube.com/watch?v=qbnvrykNf38",
+			"percent": 100,
+			"hz": 60,
+			"enj": 45
+		},
+    	{
+     	    "user": "Captinfireball",
+            "link": "https://youtu.be/6XsUQmmll4w?t=666",
+            "percent": 100,
+            "hz": 60,
+			"enj": 50
+        }
+    ]
+}
